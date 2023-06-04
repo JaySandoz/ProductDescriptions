@@ -1,6 +1,5 @@
-
-            # Cbdmd - Full Spectrum Cbd Tincture Oil
-            Cbdmd’s Full Spectrum Cbd Tincture Oil is the perfect way to get your daily dose of CBD. Our high-quality, organic hemp-derived CBD oil is made with a unique blend of cannabinoids and terpenes that provide maximum benefits. Our oil is lab-tested for purity and potency, so you can trust that you’re getting the highest quality CBD on the market.
+# Cbdmd - Full Spectrum Cbd Tincture Oil
+Cbdmd’s Full Spectrum Cbd Tincture Oil is the perfect way to get your daily dose of CBD. Our high-quality, organic hemp-derived CBD oil is made with a unique blend of cannabinoids and terpenes that provide maximum benefits. Our oil is lab-tested for purity and potency, so you can trust that you’re getting the highest quality CBD on the market.
 
 ## Description
 Our Full Spectrum Cbd Tincture Oil is made with a unique blend of cannabinoids and terpenes that provide maximum benefits. Our oil is made from organic hemp-derived CBD oil and is lab-tested for purity and potency. Our oil is designed to be taken sublingually, meaning it is absorbed quickly and efficiently into the bloodstream. This allows for maximum absorption of the CBD, so you get the most out of your daily dose.
