@@ -256,7 +256,7 @@ Our Afternoon Delight Chill & Buzz Gummies are easy to use. Simply take one gumm
 Our gummies are made with all-natural ingredients and terpenes that are designed to help you relax and get a good night's sleep. The combination of CBG, CBD, and THC helps to reduce stress and anxiety, while also providing a gentle boost of energy.
 
 ## Lab Results
-You can find the lab results for Slumber CBN's Afternoon Delight Chill & Buzz Gummies [here](https://slumbercbn.com/wp-content/uploads/2023/03/Afternoon-Delight-SLGV6-030623.pdf).
+You can find the lab results for Slumber CBN's Afternoon Delight Chill & Buzz Gummies [here](https://slumbercbn.com/wp-content/uploads/2023/03/Afternoon-Delight-SLGV6-030623.pdf)
 
 ## Benefits
 - Helps reduce stress and anxiety
