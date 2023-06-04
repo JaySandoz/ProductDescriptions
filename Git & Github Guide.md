@@ -44,4 +44,4 @@ Git and GitHub are tools that help you keep track of changes in your code and co
 That's it! You're now using Git and GitHub on your Mac to track changes and collaborate with others on your coding projects. Remember to regularly commit and push your changes to keep your work safe and share your progress with others.
 
 If you need more guidance or want to learn advanced Git commands, check out the official Git documentation: [https://git-scm.com/doc](https://git-scm.com/doc)
-```
+
