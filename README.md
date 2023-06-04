@@ -323,16 +323,17 @@ Use hashtags (#) to create headings. The number of hashtags determines the headi
 
 ### Lists
 
-- Unordered List: Use dashes, asterisks, or plus signs to create unordered lists. Example:
-- Item 1
-- Item 2
-- Item 3
+Unordered List: Use dashes, asterisks, or plus signs to create unordered lists. Example:
 
- Ordered List: Begin each item with a number followed by a period. Example:
- 
-1. Item 1
-2. Item 2
-3. Item 3
+  - Item 1
+  - Item 2
+  - Item 3
+
+Ordered List: Begin each item with a number followed by a period. Example:
+
+   1. Item 1
+   2. Item 2
+   3. Item 3
 
 ### Links
 
