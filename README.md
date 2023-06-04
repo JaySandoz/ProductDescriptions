@@ -306,22 +306,24 @@ A: No, our gummies do not contain any artificial flavors or colors.
 
 ```
 Markdown is a lightweight markup language that allows you to format text documents with simple syntax. It is widely used for creating structured and stylized content across various platforms. Here are some key elements and tips to help you master Markdown:
+```
 
 ### Headings
-
+```
 Use hashtags (#) to create headings. The number of hashtags determines the heading level. For example:
 # Heading 1
 ## Heading 2
 ### Heading 3
+```
 
 ### Text Formatting
-
+```
 - *Italic*: Surround the text with asterisks or underscores. Example: *Italic* or _Italic_.
 - **Bold**: Use double asterisks or underscores. Example: **Bold** or __Bold__.
 - ~~Strikethrough~~: Enclose the text with double tildes. Example: ~~Strikethrough~~.
-
+```
 ### Lists
-
+```
 - Unordered List: Use dashes, asterisks, or plus signs to create unordered lists. Example:
 - Item 1
 - Item 2
@@ -331,31 +333,33 @@ Use hashtags (#) to create headings. The number of hashtags determines the headi
 1. Item 1
 2. Item 2
 3. Item 3
-
+```
 ### Links
-
+```
 - Inline Links: Enclose the link text in square brackets and the URL in parentheses. Example: [OpenAI](https://openai.com)
-
+```
 ### Images
-
+```
 - Insert Images: Use an exclamation mark followed by square brackets containing an alternative text and parentheses containing the image URL. Example: ![Alt Text](https://example.com/image.jpg)
-
+```
 ### Code Blocks
-
+```
 - Inline Code: Surround the code with backticks. Example: `code`
 - Fenced Code Blocks: Enclose the code block with triple backticks. Example:
+```
   ```python
   print("Hello, Markdown!")
   ```
 
 ### Blockquotes
-
+```
 - Blockquotes: Precede the text with a greater-than symbol. Example:
 > This is a blockquote.
-
+```
 ### Horizontal Rules
-
+```
 - Horizontal Rule: Use three or more hyphens, asterisks, or underscores. Example:
+```
 ---
 
 These are just a few of the many features available in Markdown. Experiment and explore to create visually appealing and well-structured documents!
