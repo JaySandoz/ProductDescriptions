@@ -1,5 +1,4 @@
-
-            # Tre House - Rainbow Runtz Prerolls(5PK)
+#Tre House - Rainbow Runtz Prerolls(5PK)
             
             Tre House's Rainbow Runtz Prerolls are the perfect way to enjoy a delicious and flavorful smoke. Each preroll is filled with a blend of premium CBD and Rainbow Runtz strain, giving you a smooth and enjoyable experience. The prerolls come in a convenient 5-pack, allowing you to enjoy the same flavor and effects as smoking a joint, without the hassle of rolling.
             
