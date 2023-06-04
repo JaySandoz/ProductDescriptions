@@ -175,6 +175,7 @@ A: No, our gummies do not contain any artificial flavors or colors.
 # Corrections
 Below is the corrected version of the product description:
 
+```markdown
 # Slumber CBG - Afternoon Delight Chill & Buzz Gummies
 Slumber CBG's Afternoon Delight Chill & Buzz Gummies are the perfect way to unwind after a long day. These delicious gummies are infused with a blend of CBG, CBD, and THC that will help you relax and feel energized at the same time. Our proprietary blend of natural ingredients and terpenes will help you drift off to a peaceful sleep in no time.
 
@@ -245,3 +246,4 @@ A: The benefits of using our gummies include reducing stress and anxiety, provid
 Q: Do Slumber CBG's Afternoon Delight Chill & Buzz Gummies contain any artificial flavors or colors?
 
 A: No, our gummies do not contain any artificial flavors or colors.
+```
