@@ -1,5 +1,4 @@
-
-            # Galaxy Treats - Cosmic Treats 100MG D8
+# Galaxy Treats - Cosmic Treats 100MG D8
 
 Discover the power of the universe with Galaxy Treats - Cosmic Treats 100MG D8! Our delicious, out-of-this-world gummies are infused with 100MG of Delta-8 THC, offering a powerful yet calming experience. Our unique gummies come in a variety of shapes and colors, making them the perfect snack to share with friends. Our gummies are made with all-natural ingredients, and are lab-tested to ensure quality and safety. Enjoy the power of the universe with Galaxy Treats - Cosmic Treats 100MG D8!
 
