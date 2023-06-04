@@ -341,7 +341,7 @@ Ordered List: Begin each item with a number followed by a period. Example:
 
 ### Images
 
-- Insert Images: Use an exclamation mark followed by square brackets containing an alternative text and parentheses containing the image URL. Example: ![Alt Text](https://example.com/image.jpg)
+- Insert Images: Use an exclamation mark followed by square brackets containing an alternative text and parentheses containing the image URL. Example: ![Wellness Supply Co](https://wellnesssupply.co/wp-content/uploads/2023/02/Wellness_SupplyCO_Logo.png)
 
 ### Code Blocks
 
