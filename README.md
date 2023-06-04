@@ -1,4 +1,6 @@
-# Product Description Accuracy Check ✅🔍😄
+![Wellness Supply Co](https://wellnesssupply.co/wp-content/uploads/2023/02/Wellness_SupplyCO_Logo.png)
+
+# Product Description Accuracy Check Guidelines & Information ✅🔍😄
 
 Welcome to the Product Description Accuracy Check Guide, 👩‍❤️‍💋‍👨 I love you!! 🎉📝
 
