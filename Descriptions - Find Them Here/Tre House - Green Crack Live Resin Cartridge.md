@@ -1,5 +1,4 @@
-
-            # Tre House - Green Crack Live Resin Cartridge
+# Tre House - Green Crack Live Resin Cartridge
 
 Tre House’s Green Crack Live Resin Cartridge is the perfect choice for anyone looking to experience the full potential of CBD. Our cartridge is made with only the finest ingredients, ensuring you get a high-quality product that is both potent and effective. Our live resin is extracted from the finest hemp plants, providing a pure and natural experience.
 
