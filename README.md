@@ -302,9 +302,9 @@ Q: Do Slumber CBG's Afternoon Delight Chill & Buzz Gummies contain any artificia
 A: No, our gummies do not contain any artificial flavors or colors.
 ```
 
-```
 ## Guide to Markdown
 
+```
 Markdown is a lightweight markup language that allows you to format text documents with simple syntax. It is widely used for creating structured and stylized content across various platforms. Here are some key elements and tips to help you master Markdown:
 
 ### Headings
