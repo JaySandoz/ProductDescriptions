@@ -28,9 +28,9 @@ Remember to remove this guide section before finalizing your keyword research re
 
 ## Project Information
 
-- **Client:** [Client's Name]
-- **Project:** [Project Name]
-- **Date:** [Date]
+- **Client:** Jason Sandoz
+- **Project:** Wellness Supply Co
+- **Date:** 6/4/23
 
 
 <details>
