@@ -1,7 +1,30 @@
----
-layout: post
-title: Keyword Research Report
----
+## Guide to Editing This Template
+
+This template is designed to be easily editable. Below are instructions on how to fill out each section:
+
+### Product Sections
+
+Each product has its own section, and the details are contained within a collapsible markdown feature for readability. 
+
+#### Product Details
+
+In the "Product Details" subsection, most of the information should be auto-filled from your `product_information.md` file. The placeholders for "Price" and "COA" should be replaced with the respective information if not already filled.
+
+#### Keyword Analysis
+
+In the "Keyword Analysis" subsection, replace the placeholders in the table with the respective information:
+
+- **Keyword:** Replace "[Keyword 1]", "[Keyword 2]", etc. with the keyword you're targeting for that specific product.
+- **Search Volume:** Replace "[Search Volume]" with the estimated monthly search volume for that keyword.
+- **Keyword Difficulty:** Replace "[Keyword Difficulty]" with the estimated difficulty of ranking for that keyword. This value is usually given by your SEO tool and may be a number or a description such as "Low", "Medium", or "High".
+- **Current Ranking:** Replace "[Current Ranking]" with the current ranking of your website for that keyword in search engine results.
+- **Notes:** Replace "[Notes]" with any additional notes or strategies related to the keyword.
+
+### Strategy Recommendations
+
+In the "Strategy Recommendations" section, replace "[Add your strategy recommendations here based on the keyword research findings]" with your strategy recommendations based on the keyword research findings.
+
+Remember to remove this guide section before finalizing your keyword research report.
 
 ## Table of Contents
 
@@ -109,8 +132,8 @@ title: Keyword Research Report
 
 ## Project Information <a name="project-information"></a>
 
-- **Client:** [Client's Name]
-- **Project:** [Project Name]
+- **Client:** Jason Sandoz
+- **Project:** Wellness Supply Co
 - **Date:** [Date]
 
 
