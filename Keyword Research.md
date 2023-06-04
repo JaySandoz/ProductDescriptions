@@ -26,1918 +26,1818 @@ In the "Strategy Recommendations" section, replace "[Add your strategy recommend
 
 Remember to remove this guide section before finalizing your keyword research report.
 
-## Table of Contents
+## Project Information
 
-1. [Project Information](#project-information)
-2. [Slumber CBN - Deep Zzzs Full Spectrum Sleep Gummies](#product-1)
-3. [Tre House - Rainbow Runtz Prerolls(5PK)](#product-2)
-4. [Tre House - Acapulco Gold Preroll(5PK)](#product-3)
-5. [Tre House THC-P Gummies - Mango](#product-4)
-6. [Tre House - GS Cookies Cartridge](#product-5)
-7. [Tre House - Ice Cream Cake Cartridge](#product-6)
-8. [Tre House - Gelato Cartridge](#product-7)
-9. [Tre House - Green Crack Live Resin Cartridge](#product-8)
-10. [Tre House - D9 + CBD Cookie](#product-9)
-11. [Tre House - Rainbow Sherbet](#product-10)
-12. [Tre House - Wedding Cake - D8 + D9 + D10 + THC-P](#product-11)
-13. [Tre House - Lemon Jack - D8 + D9 + D10 + THC-P](#product-12)
-14. [Tre House - Live Resin THC-P - White Widow](#product-13)
-15. [Cbdmd - Full Spectrum Cbd Tincture Oil](#product-14)
-16. [Galaxy Treats - Cosmic Treats 100MG D8](#product-15)
-17. [Galaxy Treats - Moonbabies Delta 9 THC Gummies](#product-16)
-18. [Tre House - Super Lemon Haze Delta 8 Live Resin Disposable](#product-17)
-19. [Tre House - Wedding Crasher Live Resin Delta 8 Disposable](#product-18)
-20. [Tre House - Live Resin Delta 8 Ice Cream Cake](#product-19)
-21. [Smoking Dog - THC:CBD Freeze 500MG](#product-20)
-22. [Delta8 Living - Delta 8 Flower](#product-21)
-23. [Delta8 Living - HHC Flower 3.5G](#product-22)
-24. [Smoking Dog - 100MG D9 THC Shot](#product-23)
-25. [Delta8Living - Delta 8 Moonrocks](#product-24)
-26. [Delta 8 Living HHC Moonrocks](#product-25)
-27. [Redwood Reserves-Peppermint Hemp Joint](#product-26)
-28. [Redwood Reserves-Menthol Crush Pack](#product-27)
-29. [Imini](#product-28)
-30. [PreRoll](#product-29)
-31. [Redwood Reserves-Loosie-Menthol](#product-30)
-32. [Marsello Discount](#product-31)
-33. [Pipe](#product-32)
-34. [Full-Spectrum Premium Hemp Extract Tincture 1,000 mg](#product-33)
-35. [Rogue valley](#product-34)
-36. [Upland Hemp 5 Pack](#product-35)
-37. [Paranoid x11](#product-36)
-38. [Redwood Reserves-Loosie](#product-37)
-39. [Redwood Reserves-Pack](#product-38)
-40. [Secret Nature](#product-39)
-41. [Rig](#product-40)
-42. [D8-Hi - Delta 8 Cookies](#product-41)
-43. [Redwood Reserves-Hemp Joint-lavender](#product-42)
-44. [Paw CBD - Nose to Tose Balm](#product-43)
-45. [Paw CBD - Hard Chews](#product-44)
-46. [Paw CBD - Canine Calming Chews](#product-45)
-47. [Paw CBD - Canine Hip + Joint Chews](#product-46)
-48. [Paw CBD - Canine CBD Oil](#product-47)
-49. [Paw CBD - Canine Soft Chews](#product-48)
-50. [CBDLiving - Nano CBD infused Water](#product-49)
-51. [CBDfx - Disposable CBD Pen](#product-50)
-52. [Slumber - Extra Strength CBN Gummies](#product-51)
-53. [Delta8 Living - Delta 8 Lemonade 100MG](#product-52)
-54. [Honeyroot Delta 8 1G Disposable THC Pen](#product-53)
-55. [TRĒ House - Live Resin HHC Vape Pen](#product-54)
-56. [TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack](#product-55)
-57. [Honeyroot + The Hive Collection 2G Disposable THC Pen](#product-56)
-58. [Foria - Intimacy Sex Oil With CBD](#product-57)
-59. [Foria - Intimacy CBD Melts](#product-58)
-60. [Foria - Intimacy Awaken Arousal Oil with CBD](#product-59)
-61. [Honeyroot - Delta 8 THC Cartridge](#product-60)
-62. [Hi On Nature - Space Rings](#product-61)
-63. [CBDLiving - Sparkling Water](#product-62)
-64. [TRĒ House - Delta 9 Gummies with CBD 1:1](#product-63)
-65. [TRĒ House - Delta 10 Gummies with HHC &amp; Delta 9](#product-64)
-66. [TRĒ House -Strawberry Burst HHC Gummies](#product-65)
-67. [CBDfx - Bath Bombs](#product-66)
-68. [cbdMD Botanicals - Perfect Polish Facial Exfoliant](#product-67)
-69. [cbdMD Botanicals - Luv Me Tender](#product-68)
-70. [cbdMD Botanicals - Clearskin Moisturizer](#product-69)
-71. [cbdMD Botanicals - Be Gone CBD Clearskin](#product-70)
-72. [cbdMD Botanicals - Facial Serum](#product-71)
-73. [cbdMD Botanicals - Exfoliating Facial Cleanser](#product-72)
-74. [cbdMD Botanicals - Creamy Cleanser](#product-73)
-75. [cbdMD Botanicals - The Everyday Oil](#product-74)
-76. [cbdMD Botanicals - Daily Moisturizer](#product-75)
-77. [cbdMD Botanicals - Exfoliating Face Mask](#product-76)
-78. [cbdMD Botanicals - moroccan Rose Moisture Mist](#product-77)
-79. [cbdMD - Freeze Roll On](#product-78)
-80. [cbdMD - Recover](#product-79)
-81. [CBDistillery - CBDol CBD Balm](#product-80)
-82. [CBDfx - Muscle &amp; Joint Cooling Formula](#product-81)
-83. [CBDfx - Muscle &amp; Joint Heating Cream](#product-82)
-84. [CBDistillery - Relax CBD Gummies](#product-83)
-85. [CBDistillery - Sleep CBD Gummies w/ Melatonin](#product-84)
-86. [VitaDreamz - Sleep EZ Pillows](#product-85)
-87. [Slumber CBN - Full Spectrum 3:1 CBD:CBN Drops](#product-86)
-88. [cbdMD - Sleep PM CBD Oil](#product-87)
-89. [CBDfx - Sweet Dreams THC + CBD Drops](#product-88)
-90. [cbdMD - CBD Drink Mix](#product-89)
-91. [CBDfx - Turmeric &amp; Spirulina CBD Gummies](#product-90)
-92. [CBDfx - Multivitamin CBD Gummies](#product-91)
-93. [CBDistillery - Broad Spectrum Oil](#product-92)
-94. [cbdMD - PM Softgel Capsules](#product-93)
-95. [cbdMD - Delta 9 THC Gummies](#product-94)
-96. [CBDistillery - Full Spectrum CBD Oil](#product-95)
-97. [cbdMD - Broad Spectrum CBD Oil](#product-96)
-98. [cbdMD - Broad Spectrum Tropical Mix Gummies](#product-97)
-99. [cbdMD - CBD Oil Softgel Capsules](#product-98)
-100. [cbdMD - Full Spectrum Softgels](#product-99)
-101. [cbdMD - Full Spectrum CBD Gummies](#product-100)
-
-## Project Information <a name="project-information"></a>
-
-- **Client:** Jason Sandoz
-- **Project:** Wellness Supply Co
+- **Client:** [Client's Name]
+- **Project:** [Project Name]
 - **Date:** [Date]
 
 
-## Slumber CBN - Deep Zzzs Full Spectrum Sleep Gummies <a name="product-1"></a>
+## Table of Contents
+
+1. [Slumber CBN - Deep Zzzs Full Spectrum Sleep Gummies](#section-1)
+2. [Tre House - Rainbow Runtz Prerolls(5PK)](#section-2)
+3. [Tre House - Acapulco Gold Preroll(5PK)](#section-3)
+4. [Tre House THC-P Gummies - Mango](#section-4)
+5. [Tre House - GS Cookies Cartridge](#section-5)
+6. [Tre House - Ice Cream Cake Cartridge](#section-6)
+7. [Tre House - Gelato Cartridge](#section-7)
+8. [Tre House - Green Crack Live Resin Cartridge](#section-8)
+9. [Tre House - D9 + CBD Cookie](#section-9)
+10. [Tre House - Rainbow Sherbet](#section-10)
+11. [Tre House - Wedding Cake - D8 + D9 + D10 + THC-P](#section-11)
+12. [Tre House - Lemon Jack - D8 + D9 + D10 + THC-P](#section-12)
+13. [Tre House - Live Resin THC-P - White Widow](#section-13)
+14. [Cbdmd - Full Spectrum Cbd Tincture Oil](#section-14)
+15. [Galaxy Treats - Cosmic Treats 100MG D8](#section-15)
+16. [Galaxy Treats - Moonbabies Delta 9 THC Gummies](#section-16)
+17. [Tre House - Super Lemon Haze Delta 8 Live Resin Disposable](#section-17)
+18. [Tre House - Wedding Crasher Live Resin Delta 8 Disposable](#section-18)
+19. [Tre House - Live Resin Delta 8 Ice Cream Cake](#section-19)
+20. [Smoking Dog - THC:CBD Freeze 500MG](#section-20)
+21. [Delta8 Living - Delta 8 Flower](#section-21)
+22. [Delta8 Living - HHC Flower 3.5G](#section-22)
+23. [Smoking Dog - 100MG D9 THC Shot](#section-23)
+24. [Delta8Living - Delta 8 Moonrocks](#section-24)
+25. [Delta 8 Living HHC Moonrocks](#section-25)
+26. [Redwood Reserves-Peppermint Hemp Joint](#section-26)
+27. [Redwood Reserves-Menthol Crush Pack](#section-27)
+28. [Imini](#section-28)
+29. [PreRoll](#section-29)
+30. [Redwood Reserves-Loosie-Menthol](#section-30)
+31. [Marsello Discount](#section-31)
+32. [Pipe](#section-32)
+33. [Full-Spectrum Premium Hemp Extract Tincture 1,000 mg](#section-33)
+34. [Rogue valley](#section-34)
+35. [Upland Hemp 5 Pack](#section-35)
+36. [Paranoid x11](#section-36)
+37. [Redwood Reserves-Loosie](#section-37)
+38. [Redwood Reserves-Pack](#section-38)
+39. [Secret Nature](#section-39)
+40. [Rig](#section-40)
+41. [D8-Hi - Delta 8 Cookies](#section-41)
+42. [Redwood Reserves-Hemp Joint-lavender](#section-42)
+43. [Paw CBD - Nose to Tose Balm](#section-43)
+44. [Paw CBD - Hard Chews](#section-44)
+45. [Paw CBD - Canine Calming Chews](#section-45)
+46. [Paw CBD - Canine Hip + Joint Chews](#section-46)
+47. [Paw CBD - Canine CBD Oil](#section-47)
+48. [Paw CBD - Canine Soft Chews](#section-48)
+49. [CBDLiving - Nano CBD infused Water](#section-49)
+50. [CBDfx - Disposable CBD Pen](#section-50)
+51. [Slumber - Extra Strength CBN Gummies](#section-51)
+52. [Delta8 Living - Delta 8 Lemonade 100MG](#section-52)
+53. [Honeyroot Delta 8 1G Disposable THC Pen](#section-53)
+54. [TRĒ House - Live Resin HHC Vape Pen](#section-54)
+55. [TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack](#section-55)
+56. [Honeyroot + The Hive Collection 2G Disposable THC Pen](#section-56)
+57. [Foria - Intimacy Sex Oil With CBD](#section-57)
+58. [Foria - Intimacy CBD Melts](#section-58)
+59. [Foria - Intimacy Awaken Arousal Oil with CBD](#section-59)
+60. [Honeyroot - Delta 8 THC Cartridge](#section-60)
+61. [Hi On Nature - Space Rings](#section-61)
+62. [CBDLiving - Sparkling Water](#section-62)
+63. [TRĒ House - Delta 9 Gummies with CBD 1:1](#section-63)
+64. [TRĒ House - Delta 10 Gummies with HHC &amp; Delta 9](#section-64)
+65. [TRĒ House -Strawberry Burst HHC Gummies](#section-65)
+66. [CBDfx - Bath Bombs](#section-66)
+67. [cbdMD Botanicals - Perfect Polish Facial Exfoliant](#section-67)
+68. [cbdMD Botanicals - Luv Me Tender](#section-68)
+69. [cbdMD Botanicals - Clearskin Moisturizer](#section-69)
+70. [cbdMD Botanicals - Be Gone CBD Clearskin](#section-70)
+71. [cbdMD Botanicals - Facial Serum](#section-71)
+72. [cbdMD Botanicals - Exfoliating Facial Cleanser](#section-72)
+73. [cbdMD Botanicals - Creamy Cleanser](#section-73)
+74. [cbdMD Botanicals - The Everyday Oil](#section-74)
+75. [cbdMD Botanicals - Daily Moisturizer](#section-75)
+76. [cbdMD Botanicals - Exfoliating Face Mask](#section-76)
+77. [cbdMD Botanicals - moroccan Rose Moisture Mist](#section-77)
+78. [cbdMD - Freeze Roll On](#section-78)
+79. [cbdMD - Recover](#section-79)
+80. [CBDistillery - CBDol CBD Balm](#section-80)
+81. [CBDfx - Muscle &amp; Joint Cooling Formula](#section-81)
+82. [CBDfx - Muscle &amp; Joint Heating Cream](#section-82)
+83. [CBDistillery - Relax CBD Gummies](#section-83)
+84. [CBDistillery - Sleep CBD Gummies w/ Melatonin](#section-84)
+85. [VitaDreamz - Sleep EZ Pillows](#section-85)
+86. [Slumber CBN - Full Spectrum 3:1 CBD:CBN Drops](#section-86)
+87. [cbdMD - Sleep PM CBD Oil](#section-87)
+88. [CBDfx - Sweet Dreams THC + CBD Drops](#section-88)
+89. [cbdMD - CBD Drink Mix](#section-89)
+90. [CBDfx - Turmeric &amp; Spirulina CBD Gummies](#section-90)
+91. [CBDfx - Multivitamin CBD Gummies](#section-91)
+92. [CBDistillery - Broad Spectrum Oil](#section-92)
+93. [cbdMD - PM Softgel Capsules](#section-93)
+94. [cbdMD - Delta 9 THC Gummies](#section-94)
+95. [CBDistillery - Full Spectrum CBD Oil](#section-95)
+96. [cbdMD - Broad Spectrum CBD Oil](#section-96)
+97. [cbdMD - Broad Spectrum Tropical Mix Gummies](#section-97)
+98. [cbdMD - CBD Oil Softgel Capsules](#section-98)
+99. [cbdMD - Full Spectrum Softgels](#section-99)
+100. [cbdMD - Full Spectrum CBD Gummies](#section-100)
 
-### Product Details
+<details>
+  <summary>Slumber CBN - Deep Zzzs Full Spectrum Sleep Gummies <a id="section-1"></a></summary>
 
-- **Product Name:** Slumber CBN - Deep Zzzs Full Spectrum Sleep Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/slumber-cbn-deep-zzzs-full-spectrum-sleep-gummies/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/slumber-cbn-deep-zzzs-full-spectrum-sleep-gummies/](https://wellnesssupply.co/product/slumber-cbn-deep-zzzs-full-spectrum-sleep-gummies/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Tre House - Rainbow Runtz Prerolls(5PK) <a name="product-2"></a>
+<details>
+  <summary>Tre House - Rainbow Runtz Prerolls(5PK) <a id="section-2"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-rainbow-runtz-prerolls5pk/](https://wellnesssupply.co/product/tre-house-rainbow-runtz-prerolls5pk/)
+  - **Price:** 24.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Tre House - Rainbow Runtz Prerolls(5PK)
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-rainbow-runtz-prerolls5pk/)
-- **Price:** 24.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Tre House - Acapulco Gold Preroll(5PK) <a id="section-3"></a></summary>
 
-## Tre House - Acapulco Gold Preroll(5PK) <a name="product-3"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-acapulco-gold-preroll5pk/](https://wellnesssupply.co/product/tre-house-acapulco-gold-preroll5pk/)
+  - **Price:** 24.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Tre House - Acapulco Gold Preroll(5PK)
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-acapulco-gold-preroll5pk/)
-- **Price:** 24.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Tre House THC-P Gummies - Mango <a id="section-4"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-thc-p-gummies-mango/](https://wellnesssupply.co/product/tre-house-thc-p-gummies-mango/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-## Tre House THC-P Gummies - Mango <a name="product-4"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Tre House THC-P Gummies - Mango
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-thc-p-gummies-mango/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>Tre House - GS Cookies Cartridge <a id="section-5"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-gs-cookies-cartridge/](https://wellnesssupply.co/product/tre-house-gs-cookies-cartridge/)
+  - **Price:** 24.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Tre House - GS Cookies Cartridge <a name="product-5"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Tre House - GS Cookies Cartridge
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-gs-cookies-cartridge/)
-- **Price:** 24.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>Tre House - Ice Cream Cake Cartridge <a id="section-6"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-ice-cream-cake-cartridge/](https://wellnesssupply.co/product/tre-house-ice-cream-cake-cartridge/)
+  - **Price:** 24.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Tre House - Ice Cream Cake Cartridge <a name="product-6"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>Tre House - Gelato Cartridge <a id="section-7"></a></summary>
 
-- **Product Name:** Tre House - Ice Cream Cake Cartridge
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-ice-cream-cake-cartridge/)
-- **Price:** 24.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-gelato-cartridge/](https://wellnesssupply.co/product/tre-house-gelato-cartridge/)
+  - **Price:** 24.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Tre House - Gelato Cartridge <a name="product-7"></a>
+<details>
+  <summary>Tre House - Green Crack Live Resin Cartridge <a id="section-8"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-green-crack-live-resin-cartridge/](https://wellnesssupply.co/product/tre-house-green-crack-live-resin-cartridge/)
+  - **Price:** 24.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Tre House - Gelato Cartridge
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-gelato-cartridge/)
-- **Price:** 24.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Tre House - D9 + CBD Cookie <a id="section-9"></a></summary>
 
-## Tre House - Green Crack Live Resin Cartridge <a name="product-8"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-d9-cbd-cookie/](https://wellnesssupply.co/product/tre-house-d9-cbd-cookie/)
+  - **Price:** 11.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Tre House - Green Crack Live Resin Cartridge
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-green-crack-live-resin-cartridge/)
-- **Price:** 24.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Tre House - Rainbow Sherbet <a id="section-10"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-rainbow-sherbet/](https://wellnesssupply.co/product/tre-house-rainbow-sherbet/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-## Tre House - D9 + CBD Cookie <a name="product-9"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Tre House - D9 + CBD Cookie
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-d9-cbd-cookie/)
-- **Price:** 11.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>Tre House - Wedding Cake - D8 + D9 + D10 + THC-P <a id="section-11"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-wedding-cake-d8-d9-d10-thc-p/](https://wellnesssupply.co/product/tre-house-wedding-cake-d8-d9-d10-thc-p/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Tre House - Rainbow Sherbet <a name="product-10"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Tre House - Rainbow Sherbet
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-rainbow-sherbet/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>Tre House - Lemon Jack - D8 + D9 + D10 + THC-P <a id="section-12"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-lemon-jack-d8-d9-d10-thc-p/](https://wellnesssupply.co/product/tre-house-lemon-jack-d8-d9-d10-thc-p/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Tre House - Wedding Cake - D8 + D9 + D10 + THC-P <a name="product-11"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>Tre House - Live Resin THC-P - White Widow <a id="section-13"></a></summary>
 
-- **Product Name:** Tre House - Wedding Cake - D8 + D9 + D10 + THC-P
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-wedding-cake-d8-d9-d10-thc-p/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-live-resin-thc-p-white-widow/](https://wellnesssupply.co/product/tre-house-live-resin-thc-p-white-widow/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Tre House - Lemon Jack - D8 + D9 + D10 + THC-P <a name="product-12"></a>
+<details>
+  <summary>Cbdmd - Full Spectrum Cbd Tincture Oil <a id="section-14"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-full-spectrum-cbd-tincture-oil/](https://wellnesssupply.co/product/cbdmd-full-spectrum-cbd-tincture-oil/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Tre House - Lemon Jack - D8 + D9 + D10 + THC-P
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-lemon-jack-d8-d9-d10-thc-p/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Galaxy Treats - Cosmic Treats 100MG D8 <a id="section-15"></a></summary>
 
-## Tre House - Live Resin THC-P - White Widow <a name="product-13"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/galaxy-treats-cosmic-treats-100mg-d8/](https://wellnesssupply.co/product/galaxy-treats-cosmic-treats-100mg-d8/)
+  - **Price:** 12
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Tre House - Live Resin THC-P - White Widow
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-live-resin-thc-p-white-widow/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Galaxy Treats - Moonbabies Delta 9 THC Gummies <a id="section-16"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/moonbabies-delta-9-thc-gummies/](https://wellnesssupply.co/product/moonbabies-delta-9-thc-gummies/)
+  - **Price:** 4.99
+  - **COA:** Insert lab result link here
 
-## Cbdmd - Full Spectrum Cbd Tincture Oil <a name="product-14"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Cbdmd - Full Spectrum Cbd Tincture Oil
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-full-spectrum-cbd-tincture-oil/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>Tre House - Super Lemon Haze Delta 8 Live Resin Disposable <a id="section-17"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-super-lemon-haze-delta-8-live-resin-disposable/](https://wellnesssupply.co/product/tre-house-super-lemon-haze-delta-8-live-resin-disposable/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Galaxy Treats - Cosmic Treats 100MG D8 <a name="product-15"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Galaxy Treats - Cosmic Treats 100MG D8
-- **Product URL:** [Link](https://wellnesssupply.co/product/galaxy-treats-cosmic-treats-100mg-d8/)
-- **Price:** 12
-- **COA:** Insert lab result link here
+<details>
+  <summary>Tre House - Wedding Crasher Live Resin Delta 8 Disposable <a id="section-18"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-wedding-crashed-live-resin-delta-8-disposable/](https://wellnesssupply.co/product/tre-house-wedding-crashed-live-resin-delta-8-disposable/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Galaxy Treats - Moonbabies Delta 9 THC Gummies <a name="product-16"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>Tre House - Live Resin Delta 8 Ice Cream Cake <a id="section-19"></a></summary>
 
-- **Product Name:** Galaxy Treats - Moonbabies Delta 9 THC Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/moonbabies-delta-9-thc-gummies/)
-- **Price:** 4.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-live-resin-delta-8-ice-cream-cake/](https://wellnesssupply.co/product/tre-house-live-resin-delta-8-ice-cream-cake/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Tre House - Super Lemon Haze Delta 8 Live Resin Disposable <a name="product-17"></a>
+<details>
+  <summary>Smoking Dog - THC:CBD Freeze 500MG <a id="section-20"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/smoking-dog-thccbd-freeze-500mg/](https://wellnesssupply.co/product/smoking-dog-thccbd-freeze-500mg/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Tre House - Super Lemon Haze Delta 8 Live Resin Disposable
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-super-lemon-haze-delta-8-live-resin-disposable/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Delta8 Living - Delta 8 Flower <a id="section-21"></a></summary>
 
-## Tre House - Wedding Crasher Live Resin Delta 8 Disposable <a name="product-18"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/delta8-living-delta-8-flower/](https://wellnesssupply.co/product/delta8-living-delta-8-flower/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Tre House - Wedding Crasher Live Resin Delta 8 Disposable
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-wedding-crashed-live-resin-delta-8-disposable/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Delta8 Living - HHC Flower 3.5G <a id="section-22"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/delta8-living-hhc-flower-3-5g/](https://wellnesssupply.co/product/delta8-living-hhc-flower-3-5g/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-## Tre House - Live Resin Delta 8 Ice Cream Cake <a name="product-19"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Tre House - Live Resin Delta 8 Ice Cream Cake
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-live-resin-delta-8-ice-cream-cake/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>Smoking Dog - 100MG D9 THC Shot <a id="section-23"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/smoking-dog-100mg-d9-thc-shot/](https://wellnesssupply.co/product/smoking-dog-100mg-d9-thc-shot/)
+  - **Price:** 11.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Smoking Dog - THC:CBD Freeze 500MG <a name="product-20"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Smoking Dog - THC:CBD Freeze 500MG
-- **Product URL:** [Link](https://wellnesssupply.co/product/smoking-dog-thccbd-freeze-500mg/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>Delta8Living - Delta 8 Moonrocks <a id="section-24"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/delta8living-delta-8-moonrocks/](https://wellnesssupply.co/product/delta8living-delta-8-moonrocks/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Delta8 Living - Delta 8 Flower <a name="product-21"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>Delta 8 Living HHC Moonrocks <a id="section-25"></a></summary>
 
-- **Product Name:** Delta8 Living - Delta 8 Flower
-- **Product URL:** [Link](https://wellnesssupply.co/product/delta8-living-delta-8-flower/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/delta-8-living-hhc-moonrocks/](https://wellnesssupply.co/product/delta-8-living-hhc-moonrocks/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Delta8 Living - HHC Flower 3.5G <a name="product-22"></a>
+<details>
+  <summary>Redwood Reserves-Peppermint Hemp Joint <a id="section-26"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/redwood-reserves-peppermint-hemp-joint/](https://wellnesssupply.co/product/redwood-reserves-peppermint-hemp-joint/)
+  - **Price:** 9
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Delta8 Living - HHC Flower 3.5G
-- **Product URL:** [Link](https://wellnesssupply.co/product/delta8-living-hhc-flower-3-5g/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Redwood Reserves-Menthol Crush Pack <a id="section-27"></a></summary>
 
-## Smoking Dog - 100MG D9 THC Shot <a name="product-23"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/redwood/](https://wellnesssupply.co/product/redwood/)
+  - **Price:** 11.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Smoking Dog - 100MG D9 THC Shot
-- **Product URL:** [Link](https://wellnesssupply.co/product/smoking-dog-100mg-d9-thc-shot/)
-- **Price:** 11.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Imini <a id="section-28"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/imini/](https://wellnesssupply.co/product/imini/)
+  - **Price:** 35
+  - **COA:** Insert lab result link here
 
-## Delta8Living - Delta 8 Moonrocks <a name="product-24"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Delta8Living - Delta 8 Moonrocks
-- **Product URL:** [Link](https://wellnesssupply.co/product/delta8living-delta-8-moonrocks/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>PreRoll <a id="section-29"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/preroll/](https://wellnesssupply.co/product/preroll/)
+  - **Price:** 5
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Delta 8 Living HHC Moonrocks <a name="product-25"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Delta 8 Living HHC Moonrocks
-- **Product URL:** [Link](https://wellnesssupply.co/product/delta-8-living-hhc-moonrocks/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>Redwood Reserves-Loosie-Menthol <a id="section-30"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/redwood-reserves-loosie-menthol/](https://wellnesssupply.co/product/redwood-reserves-loosie-menthol/)
+  - **Price:** 1.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Redwood Reserves-Peppermint Hemp Joint <a name="product-26"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>Marsello Discount <a id="section-31"></a></summary>
 
-- **Product Name:** Redwood Reserves-Peppermint Hemp Joint
-- **Product URL:** [Link](https://wellnesssupply.co/product/redwood-reserves-peppermint-hemp-joint/)
-- **Price:** 9
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/marsellodollardiscount/](https://wellnesssupply.co/product/marsellodollardiscount/)
+  - **Price:** 0
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Redwood Reserves-Menthol Crush Pack <a name="product-27"></a>
+<details>
+  <summary>Pipe <a id="section-32"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/?post_type=product&p=2232](https://wellnesssupply.co/?post_type=product&p=2232)
+  - **Price:** 25
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Redwood Reserves-Menthol Crush Pack
-- **Product URL:** [Link](https://wellnesssupply.co/product/redwood/)
-- **Price:** 11.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Full-Spectrum Premium Hemp Extract Tincture 1,000 mg <a id="section-33"></a></summary>
 
-## Imini <a name="product-28"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/850024773783/](https://wellnesssupply.co/product/850024773783/)
+  - **Price:** 34.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Imini
-- **Product URL:** [Link](https://wellnesssupply.co/product/imini/)
-- **Price:** 35
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Rogue valley <a id="section-34"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/rogue-valley/](https://wellnesssupply.co/product/rogue-valley/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-## PreRoll <a name="product-29"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** PreRoll
-- **Product URL:** [Link](https://wellnesssupply.co/product/preroll/)
-- **Price:** 5
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>Upland Hemp 5 Pack <a id="section-35"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/upland-hemp-5-pack/](https://wellnesssupply.co/product/upland-hemp-5-pack/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Redwood Reserves-Loosie-Menthol <a name="product-30"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Redwood Reserves-Loosie-Menthol
-- **Product URL:** [Link](https://wellnesssupply.co/product/redwood-reserves-loosie-menthol/)
-- **Price:** 1.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>Paranoid x11 <a id="section-36"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/paranoid-x11/](https://wellnesssupply.co/product/paranoid-x11/)
+  - **Price:** 44.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Marsello Discount <a name="product-31"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>Redwood Reserves-Loosie <a id="section-37"></a></summary>
 
-- **Product Name:** Marsello Discount
-- **Product URL:** [Link](https://wellnesssupply.co/product/marsellodollardiscount/)
-- **Price:** 0
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/redwood-reserves-loosie/](https://wellnesssupply.co/product/redwood-reserves-loosie/)
+  - **Price:** 1.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Pipe <a name="product-32"></a>
+<details>
+  <summary>Redwood Reserves-Pack <a id="section-38"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/redwood-reserves-pack/](https://wellnesssupply.co/product/redwood-reserves-pack/)
+  - **Price:** 11.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Pipe
-- **Product URL:** [Link](https://wellnesssupply.co/?post_type=product&p=2232)
-- **Price:** 25
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Secret Nature <a id="section-39"></a></summary>
 
-## Full-Spectrum Premium Hemp Extract Tincture 1,000 mg <a name="product-33"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/secret-nature/](https://wellnesssupply.co/product/secret-nature/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Full-Spectrum Premium Hemp Extract Tincture 1,000 mg
-- **Product URL:** [Link](https://wellnesssupply.co/product/850024773783/)
-- **Price:** 34.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Rig <a id="section-40"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/rig/](https://wellnesssupply.co/product/rig/)
+  - **Price:** 45
+  - **COA:** Insert lab result link here
 
-## Rogue valley <a name="product-34"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Rogue valley
-- **Product URL:** [Link](https://wellnesssupply.co/product/rogue-valley/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>D8-Hi - Delta 8 Cookies <a id="section-41"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/d8-hi-delta-8-cookies/](https://wellnesssupply.co/product/d8-hi-delta-8-cookies/)
+  - **Price:** 14.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Upland Hemp 5 Pack <a name="product-35"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Upland Hemp 5 Pack
-- **Product URL:** [Link](https://wellnesssupply.co/product/upland-hemp-5-pack/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>Redwood Reserves-Hemp Joint-lavender <a id="section-42"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/redwood-reserves-hemp-joint-lavender/](https://wellnesssupply.co/product/redwood-reserves-hemp-joint-lavender/)
+  - **Price:** 9
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Paranoid x11 <a name="product-36"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>Paw CBD - Nose to Tose Balm <a id="section-43"></a></summary>
 
-- **Product Name:** Paranoid x11
-- **Product URL:** [Link](https://wellnesssupply.co/product/paranoid-x11/)
-- **Price:** 44.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/paw-cbd-nose-to-toes-balm/](https://wellnesssupply.co/product/paw-cbd-nose-to-toes-balm/)
+  - **Price:** 24.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Redwood Reserves-Loosie <a name="product-37"></a>
+<details>
+  <summary>Paw CBD - Hard Chews <a id="section-44"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/paw-cbd-hard-chews/](https://wellnesssupply.co/product/paw-cbd-hard-chews/)
+  - **Price:** 34.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Redwood Reserves-Loosie
-- **Product URL:** [Link](https://wellnesssupply.co/product/redwood-reserves-loosie/)
-- **Price:** 1.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Paw CBD - Canine Calming Chews <a id="section-45"></a></summary>
 
-## Redwood Reserves-Pack <a name="product-38"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/paw-cbd-canine-calming-chews/](https://wellnesssupply.co/product/paw-cbd-canine-calming-chews/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Redwood Reserves-Pack
-- **Product URL:** [Link](https://wellnesssupply.co/product/redwood-reserves-pack/)
-- **Price:** 11.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Paw CBD - Canine Hip + Joint Chews <a id="section-46"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/paw-cbd-canine-hip-joint-chews/](https://wellnesssupply.co/product/paw-cbd-canine-hip-joint-chews/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-## Secret Nature <a name="product-39"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Secret Nature
-- **Product URL:** [Link](https://wellnesssupply.co/product/secret-nature/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>Paw CBD - Canine CBD Oil <a id="section-47"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/paw-cbd-canine-cbd-oil/](https://wellnesssupply.co/product/paw-cbd-canine-cbd-oil/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Rig <a name="product-40"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Rig
-- **Product URL:** [Link](https://wellnesssupply.co/product/rig/)
-- **Price:** 45
-- **COA:** Insert lab result link here
+<details>
+  <summary>Paw CBD - Canine Soft Chews <a id="section-48"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/paw-cbd-canine-soft-chews/](https://wellnesssupply.co/product/paw-cbd-canine-soft-chews/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## D8-Hi - Delta 8 Cookies <a name="product-41"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>CBDLiving - Nano CBD infused Water <a id="section-49"></a></summary>
 
-- **Product Name:** D8-Hi - Delta 8 Cookies
-- **Product URL:** [Link](https://wellnesssupply.co/product/d8-hi-delta-8-cookies/)
-- **Price:** 14.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/cbdliving-nano-cbd-infused-water/](https://wellnesssupply.co/product/cbdliving-nano-cbd-infused-water/)
+  - **Price:** 4.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Redwood Reserves-Hemp Joint-lavender <a name="product-42"></a>
+<details>
+  <summary>CBDfx - Disposable CBD Pen <a id="section-50"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/cbdfx-disposable-cbd-pen/](https://wellnesssupply.co/product/cbdfx-disposable-cbd-pen/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Redwood Reserves-Hemp Joint-lavender
-- **Product URL:** [Link](https://wellnesssupply.co/product/redwood-reserves-hemp-joint-lavender/)
-- **Price:** 9
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Slumber - Extra Strength CBN Gummies <a id="section-51"></a></summary>
 
-## Paw CBD - Nose to Tose Balm <a name="product-43"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/slumber-extra-strength-cbn-gummies/](https://wellnesssupply.co/product/slumber-extra-strength-cbn-gummies/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Paw CBD - Nose to Tose Balm
-- **Product URL:** [Link](https://wellnesssupply.co/product/paw-cbd-nose-to-toes-balm/)
-- **Price:** 24.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Delta8 Living - Delta 8 Lemonade 100MG <a id="section-52"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/delta8-living-delta-8-lemonade-100mg/](https://wellnesssupply.co/product/delta8-living-delta-8-lemonade-100mg/)
+  - **Price:** 14.99
+  - **COA:** Insert lab result link here
 
-## Paw CBD - Hard Chews <a name="product-44"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Paw CBD - Hard Chews
-- **Product URL:** [Link](https://wellnesssupply.co/product/paw-cbd-hard-chews/)
-- **Price:** 34.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>Honeyroot Delta 8 1G Disposable THC Pen <a id="section-53"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/honeyroot-delta-8-thc-disposable/](https://wellnesssupply.co/product/honeyroot-delta-8-thc-disposable/)
+  - **Price:** 34.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Paw CBD - Canine Calming Chews <a name="product-45"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Paw CBD - Canine Calming Chews
-- **Product URL:** [Link](https://wellnesssupply.co/product/paw-cbd-canine-calming-chews/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>TRĒ House - Live Resin HHC Vape Pen <a id="section-54"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-live-resin-hhc-vape-pen/](https://wellnesssupply.co/product/tre-house-live-resin-hhc-vape-pen/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Paw CBD - Canine Hip + Joint Chews <a name="product-46"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack <a id="section-55"></a></summary>
 
-- **Product Name:** Paw CBD - Canine Hip + Joint Chews
-- **Product URL:** [Link](https://wellnesssupply.co/product/paw-cbd-canine-hip-joint-chews/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-live-resin-delta-8-vape-pen-green-crack/](https://wellnesssupply.co/product/tre-house-live-resin-delta-8-vape-pen-green-crack/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Paw CBD - Canine CBD Oil <a name="product-47"></a>
+<details>
+  <summary>Honeyroot + The Hive Collection 2G Disposable THC Pen <a id="section-56"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/honeyroot-the-hive-collection-2g-disposable-thc-pen/](https://wellnesssupply.co/product/honeyroot-the-hive-collection-2g-disposable-thc-pen/)
+  - **Price:** 44.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Paw CBD - Canine CBD Oil
-- **Product URL:** [Link](https://wellnesssupply.co/product/paw-cbd-canine-cbd-oil/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>Foria - Intimacy Sex Oil With CBD <a id="section-57"></a></summary>
 
-## Paw CBD - Canine Soft Chews <a name="product-48"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/foria-intimacy-sex-oil-with-cbd/](https://wellnesssupply.co/product/foria-intimacy-sex-oil-with-cbd/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Paw CBD - Canine Soft Chews
-- **Product URL:** [Link](https://wellnesssupply.co/product/paw-cbd-canine-soft-chews/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>Foria - Intimacy CBD Melts <a id="section-58"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/foria-intimacy-cbd-melts/](https://wellnesssupply.co/product/foria-intimacy-cbd-melts/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
-## CBDLiving - Nano CBD infused Water <a name="product-49"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** CBDLiving - Nano CBD infused Water
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdliving-nano-cbd-infused-water/)
-- **Price:** 4.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>Foria - Intimacy Awaken Arousal Oil with CBD <a id="section-59"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/foria-intimacy-awaken-arousal-oil-with-cbd/](https://wellnesssupply.co/product/foria-intimacy-awaken-arousal-oil-with-cbd/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## CBDfx - Disposable CBD Pen <a name="product-50"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** CBDfx - Disposable CBD Pen
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdfx-disposable-cbd-pen/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>Honeyroot - Delta 8 THC Cartridge <a id="section-60"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/honeyroot-delta-8-thc-cartridge/](https://wellnesssupply.co/product/honeyroot-delta-8-thc-cartridge/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Slumber - Extra Strength CBN Gummies <a name="product-51"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>Hi On Nature - Space Rings <a id="section-61"></a></summary>
 
-- **Product Name:** Slumber - Extra Strength CBN Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/slumber-extra-strength-cbn-gummies/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/hi-on-nature-space-rings/](https://wellnesssupply.co/product/hi-on-nature-space-rings/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Delta8 Living - Delta 8 Lemonade 100MG <a name="product-52"></a>
+<details>
+  <summary>CBDLiving - Sparkling Water <a id="section-62"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/cbdliving-sparkling-water/](https://wellnesssupply.co/product/cbdliving-sparkling-water/)
+  - **Price:** 6.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Delta8 Living - Delta 8 Lemonade 100MG
-- **Product URL:** [Link](https://wellnesssupply.co/product/delta8-living-delta-8-lemonade-100mg/)
-- **Price:** 14.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>TRĒ House - Delta 9 Gummies with CBD 1:1 <a id="section-63"></a></summary>
 
-## Honeyroot Delta 8 1G Disposable THC Pen <a name="product-53"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-delta-9-gummies-with-cbd-11/](https://wellnesssupply.co/product/tre-house-delta-9-gummies-with-cbd-11/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Honeyroot Delta 8 1G Disposable THC Pen
-- **Product URL:** [Link](https://wellnesssupply.co/product/honeyroot-delta-8-thc-disposable/)
-- **Price:** 34.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>TRĒ House - Delta 10 Gummies with HHC &amp; Delta 9 <a id="section-64"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-delta-10-gummies-with-hhc-delta-9/](https://wellnesssupply.co/product/tre-house-delta-10-gummies-with-hhc-delta-9/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-## TRĒ House - Live Resin HHC Vape Pen <a name="product-54"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** TRĒ House - Live Resin HHC Vape Pen
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-live-resin-hhc-vape-pen/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>TRĒ House -Strawberry Burst HHC Gummies <a id="section-65"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/tre-house-strawberry-burst-hhc-gummies/](https://wellnesssupply.co/product/tre-house-strawberry-burst-hhc-gummies/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack <a name="product-55"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-live-resin-delta-8-vape-pen-green-crack/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>CBDfx - Bath Bombs <a id="section-66"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/cbdfx-bath-bomb/](https://wellnesssupply.co/product/cbdfx-bath-bomb/)
+  - **Price:** 9.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Honeyroot + The Hive Collection 2G Disposable THC Pen <a name="product-56"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>cbdMD Botanicals - Perfect Polish Facial Exfoliant <a id="section-67"></a></summary>
 
-- **Product Name:** Honeyroot + The Hive Collection 2G Disposable THC Pen
-- **Product URL:** [Link](https://wellnesssupply.co/product/honeyroot-the-hive-collection-2g-disposable-thc-pen/)
-- **Price:** 44.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-perfect-polish-facial-exfoliant/](https://wellnesssupply.co/product/cbdmd-botanicals-perfect-polish-facial-exfoliant/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## Foria - Intimacy Sex Oil With CBD <a name="product-57"></a>
+<details>
+  <summary>cbdMD Botanicals - Luv Me Tender <a id="section-68"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-luv-me-tender/](https://wellnesssupply.co/product/cbdmd-botanicals-luv-me-tender/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** Foria - Intimacy Sex Oil With CBD
-- **Product URL:** [Link](https://wellnesssupply.co/product/foria-intimacy-sex-oil-with-cbd/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>cbdMD Botanicals - Clearskin Moisturizer <a id="section-69"></a></summary>
 
-## Foria - Intimacy CBD Melts <a name="product-58"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-clearskin-moisturizer/](https://wellnesssupply.co/product/cbdmd-botanicals-clearskin-moisturizer/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** Foria - Intimacy CBD Melts
-- **Product URL:** [Link](https://wellnesssupply.co/product/foria-intimacy-cbd-melts/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>cbdMD Botanicals - Be Gone CBD Clearskin <a id="section-70"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-be-gone-cbd-clearskin/](https://wellnesssupply.co/product/cbdmd-botanicals-be-gone-cbd-clearskin/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-## Foria - Intimacy Awaken Arousal Oil with CBD <a name="product-59"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** Foria - Intimacy Awaken Arousal Oil with CBD
-- **Product URL:** [Link](https://wellnesssupply.co/product/foria-intimacy-awaken-arousal-oil-with-cbd/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>cbdMD Botanicals - Facial Serum <a id="section-71"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-facial-serum/](https://wellnesssupply.co/product/cbdmd-botanicals-facial-serum/)
+  - **Price:** 44.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## Honeyroot - Delta 8 THC Cartridge <a name="product-60"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** Honeyroot - Delta 8 THC Cartridge
-- **Product URL:** [Link](https://wellnesssupply.co/product/honeyroot-delta-8-thc-cartridge/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>cbdMD Botanicals - Exfoliating Facial Cleanser <a id="section-72"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-exfoliating-facial-cleanser/](https://wellnesssupply.co/product/cbdmd-botanicals-exfoliating-facial-cleanser/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## Hi On Nature - Space Rings <a name="product-61"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>cbdMD Botanicals - Creamy Cleanser <a id="section-73"></a></summary>
 
-- **Product Name:** Hi On Nature - Space Rings
-- **Product URL:** [Link](https://wellnesssupply.co/product/hi-on-nature-space-rings/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-creamy-cleanser/](https://wellnesssupply.co/product/cbdmd-botanicals-creamy-cleanser/)
+  - **Price:** 24.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## CBDLiving - Sparkling Water <a name="product-62"></a>
+<details>
+  <summary>cbdMD Botanicals - The Everyday Oil <a id="section-74"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-the-everyday-oil/](https://wellnesssupply.co/product/cbdmd-botanicals-the-everyday-oil/)
+  - **Price:** 44.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** CBDLiving - Sparkling Water
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdliving-sparkling-water/)
-- **Price:** 6.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>cbdMD Botanicals - Daily Moisturizer <a id="section-75"></a></summary>
 
-## TRĒ House - Delta 9 Gummies with CBD 1:1 <a name="product-63"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-daily-moisturizer/](https://wellnesssupply.co/product/cbdmd-botanicals-daily-moisturizer/)
+  - **Price:** 23.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** TRĒ House - Delta 9 Gummies with CBD 1:1
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-delta-9-gummies-with-cbd-11/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>cbdMD Botanicals - Exfoliating Face Mask <a id="section-76"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-exfoliating-face-mask/](https://wellnesssupply.co/product/cbdmd-botanicals-exfoliating-face-mask/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
-## TRĒ House - Delta 10 Gummies with HHC &amp; Delta 9 <a name="product-64"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** TRĒ House - Delta 10 Gummies with HHC &amp; Delta 9
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-delta-10-gummies-with-hhc-delta-9/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>cbdMD Botanicals - moroccan Rose Moisture Mist <a id="section-77"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-botanicals-moroccan-rose-moisture-mist/](https://wellnesssupply.co/product/cbdmd-botanicals-moroccan-rose-moisture-mist/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## TRĒ House -Strawberry Burst HHC Gummies <a name="product-65"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** TRĒ House -Strawberry Burst HHC Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/tre-house-strawberry-burst-hhc-gummies/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>cbdMD - Freeze Roll On <a id="section-78"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-freeze-roll-on/](https://wellnesssupply.co/product/cbdmd-freeze-roll-on/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## CBDfx - Bath Bombs <a name="product-66"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>cbdMD - Recover <a id="section-79"></a></summary>
 
-- **Product Name:** CBDfx - Bath Bombs
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdfx-bath-bomb/)
-- **Price:** 9.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-recover-tub/](https://wellnesssupply.co/product/cbdmd-recover-tub/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## cbdMD Botanicals - Perfect Polish Facial Exfoliant <a name="product-67"></a>
+<details>
+  <summary>CBDistillery - CBDol CBD Balm <a id="section-80"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/cbdistillery-cbdol-cbd-balm/](https://wellnesssupply.co/product/cbdistillery-cbdol-cbd-balm/)
+  - **Price:** 49.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** cbdMD Botanicals - Perfect Polish Facial Exfoliant
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-perfect-polish-facial-exfoliant/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>CBDfx - Muscle &amp; Joint Cooling Formula <a id="section-81"></a></summary>
 
-## cbdMD Botanicals - Luv Me Tender <a name="product-68"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/cbdfx-muscle-joint-cooling-formula/](https://wellnesssupply.co/product/cbdfx-muscle-joint-cooling-formula/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** cbdMD Botanicals - Luv Me Tender
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-luv-me-tender/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>CBDfx - Muscle &amp; Joint Heating Cream <a id="section-82"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/cbdfx-muscle-joint-heating-cream/](https://wellnesssupply.co/product/cbdfx-muscle-joint-heating-cream/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-## cbdMD Botanicals - Clearskin Moisturizer <a name="product-69"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** cbdMD Botanicals - Clearskin Moisturizer
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-clearskin-moisturizer/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>CBDistillery - Relax CBD Gummies <a id="section-83"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/cbdistillery-relax-cbd-gummies/](https://wellnesssupply.co/product/cbdistillery-relax-cbd-gummies/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## cbdMD Botanicals - Be Gone CBD Clearskin <a name="product-70"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** cbdMD Botanicals - Be Gone CBD Clearskin
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-be-gone-cbd-clearskin/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>CBDistillery - Sleep CBD Gummies w/ Melatonin <a id="section-84"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/cbdistillery-sleep-cbd-gummies-w-melatonin/](https://wellnesssupply.co/product/cbdistillery-sleep-cbd-gummies-w-melatonin/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## cbdMD Botanicals - Facial Serum <a name="product-71"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>VitaDreamz - Sleep EZ Pillows <a id="section-85"></a></summary>
 
-- **Product Name:** cbdMD Botanicals - Facial Serum
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-facial-serum/)
-- **Price:** 44.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/vitadreamz-sleep-ez-pillows/](https://wellnesssupply.co/product/vitadreamz-sleep-ez-pillows/)
+  - **Price:** 49.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## cbdMD Botanicals - Exfoliating Facial Cleanser <a name="product-72"></a>
+<details>
+  <summary>Slumber CBN - Full Spectrum 3:1 CBD:CBN Drops <a id="section-86"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/slumber-cbn-full-spectrum-31-cbdcbn-drops/](https://wellnesssupply.co/product/slumber-cbn-full-spectrum-31-cbdcbn-drops/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** cbdMD Botanicals - Exfoliating Facial Cleanser
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-exfoliating-facial-cleanser/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>cbdMD - Sleep PM CBD Oil <a id="section-87"></a></summary>
 
-## cbdMD Botanicals - Creamy Cleanser <a name="product-73"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-sleep-pm-cbd-oil/](https://wellnesssupply.co/product/cbdmd-sleep-pm-cbd-oil/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** cbdMD Botanicals - Creamy Cleanser
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-creamy-cleanser/)
-- **Price:** 24.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>CBDfx - Sweet Dreams THC + CBD Drops <a id="section-88"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/cbdfx-sweet-dreams-thc-cbd-drops/](https://wellnesssupply.co/product/cbdfx-sweet-dreams-thc-cbd-drops/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-## cbdMD Botanicals - The Everyday Oil <a name="product-74"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** cbdMD Botanicals - The Everyday Oil
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-the-everyday-oil/)
-- **Price:** 44.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>cbdMD - CBD Drink Mix <a id="section-89"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-cbd-drink-mix/](https://wellnesssupply.co/product/cbdmd-cbd-drink-mix/)
+  - **Price:** 12.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## cbdMD Botanicals - Daily Moisturizer <a name="product-75"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** cbdMD Botanicals - Daily Moisturizer
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-daily-moisturizer/)
-- **Price:** 23.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>CBDfx - Turmeric &amp; Spirulina CBD Gummies <a id="section-90"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/cbdfx-turmeric-spirulina-cbd-gummies/](https://wellnesssupply.co/product/cbdfx-turmeric-spirulina-cbd-gummies/)
+  - **Price:** 54.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## cbdMD Botanicals - Exfoliating Face Mask <a name="product-76"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>CBDfx - Multivitamin CBD Gummies <a id="section-91"></a></summary>
 
-- **Product Name:** cbdMD Botanicals - Exfoliating Face Mask
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-exfoliating-face-mask/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/cbdfx-multivitamin-cbd-gummies/](https://wellnesssupply.co/product/cbdfx-multivitamin-cbd-gummies/)
+  - **Price:** 54.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## cbdMD Botanicals - moroccan Rose Moisture Mist <a name="product-77"></a>
+<details>
+  <summary>CBDistillery - Broad Spectrum Oil <a id="section-92"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/cbdistillery-broad-spectrum-oil/](https://wellnesssupply.co/product/cbdistillery-broad-spectrum-oil/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** cbdMD Botanicals - moroccan Rose Moisture Mist
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-botanicals-moroccan-rose-moisture-mist/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>cbdMD - PM Softgel Capsules <a id="section-93"></a></summary>
 
-## cbdMD - Freeze Roll On <a name="product-78"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-pm-softgel-capsules/](https://wellnesssupply.co/product/cbdmd-pm-softgel-capsules/)
+  - **Price:** 49.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** cbdMD - Freeze Roll On
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-freeze-roll-on/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>cbdMD - Delta 9 THC Gummies <a id="section-94"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-delta-9-gummies/](https://wellnesssupply.co/product/cbdmd-delta-9-gummies/)
+  - **Price:** 29.99
+  - **COA:** Insert lab result link here
 
-## cbdMD - Recover <a name="product-79"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** cbdMD - Recover
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-recover-tub/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
+<details>
+  <summary>CBDistillery - Full Spectrum CBD Oil <a id="section-95"></a></summary>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  - **Product URL:** [https://wellnesssupply.co/product/cbdistillery-full-spectrum-cbd-oil/](https://wellnesssupply.co/product/cbdistillery-full-spectrum-cbd-oil/)
+  - **Price:** 44.99
+  - **COA:** Insert lab result link here
 
+  ### Keyword Research
 
-## CBDistillery - CBDol CBD Balm <a name="product-80"></a>
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Product Details
+</details>
 
-- **Product Name:** CBDistillery - CBDol CBD Balm
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdistillery-cbdol-cbd-balm/)
-- **Price:** 49.99
-- **COA:** Insert lab result link here
+<details>
+  <summary>cbdMD - Broad Spectrum CBD Oil <a id="section-96"></a></summary>
 
-### Keyword Analysis
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-broad-spectrum-cbd-oil/](https://wellnesssupply.co/product/cbdmd-broad-spectrum-cbd-oil/)
+  - **Price:** 39.99
+  - **COA:** Insert lab result link here
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  ### Keyword Research
 
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-## CBDfx - Muscle &amp; Joint Cooling Formula <a name="product-81"></a>
+</details>
 
-### Product Details
+<details>
+  <summary>cbdMD - Broad Spectrum Tropical Mix Gummies <a id="section-97"></a></summary>
 
-- **Product Name:** CBDfx - Muscle &amp; Joint Cooling Formula
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdfx-muscle-joint-cooling-formula/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-broad-spectrum-tropical-mix-gummies/](https://wellnesssupply.co/product/cbdmd-broad-spectrum-tropical-mix-gummies/)
+  - **Price:** 19.99
+  - **COA:** Insert lab result link here
 
-### Keyword Analysis
+  ### Keyword Research
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
+</details>
 
-## CBDfx - Muscle &amp; Joint Heating Cream <a name="product-82"></a>
+<details>
+  <summary>cbdMD - CBD Oil Softgel Capsules <a id="section-98"></a></summary>
 
-### Product Details
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-cbd-oil-softgel-capsules/](https://wellnesssupply.co/product/cbdmd-cbd-oil-softgel-capsules/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-- **Product Name:** CBDfx - Muscle &amp; Joint Heating Cream
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdfx-muscle-joint-heating-cream/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
+  ### Keyword Research
 
-### Keyword Analysis
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+</details>
 
+<details>
+  <summary>cbdMD - Full Spectrum Softgels <a id="section-99"></a></summary>
 
-## CBDistillery - Relax CBD Gummies <a name="product-83"></a>
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-full-spectrum-softgels/](https://wellnesssupply.co/product/cbdmd-full-spectrum-softgels/)
+  - **Price:** 79.99
+  - **COA:** Insert lab result link here
 
-### Product Details
+  ### Keyword Research
 
-- **Product Name:** CBDistillery - Relax CBD Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdistillery-relax-cbd-gummies/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-### Keyword Analysis
+</details>
 
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
+<details>
+  <summary>cbdMD - Full Spectrum CBD Gummies <a id="section-100"></a></summary>
 
+  - **Product URL:** [https://wellnesssupply.co/product/cbdmd-full-spectrum-cbd-gummies/](https://wellnesssupply.co/product/cbdmd-full-spectrum-cbd-gummies/)
+  - **Price:** 59.99
+  - **COA:** Insert lab result link here
 
-## CBDistillery - Sleep CBD Gummies w/ Melatonin <a name="product-84"></a>
+  ### Keyword Research
 
-### Product Details
+  | Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  |---------|---------------|-------------------|-----------------|-------|
+  | Keyword 1 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | Keyword 2 | Search Volume | Keyword Difficulty | Current Ranking | Notes |
+  | ... | ... | ... | ... | ... |
 
-- **Product Name:** CBDistillery - Sleep CBD Gummies w/ Melatonin
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdistillery-sleep-cbd-gummies-w-melatonin/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
+</details>
 
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## VitaDreamz - Sleep EZ Pillows <a name="product-85"></a>
-
-### Product Details
-
-- **Product Name:** VitaDreamz - Sleep EZ Pillows
-- **Product URL:** [Link](https://wellnesssupply.co/product/vitadreamz-sleep-ez-pillows/)
-- **Price:** 49.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## Slumber CBN - Full Spectrum 3:1 CBD:CBN Drops <a name="product-86"></a>
-
-### Product Details
-
-- **Product Name:** Slumber CBN - Full Spectrum 3:1 CBD:CBN Drops
-- **Product URL:** [Link](https://wellnesssupply.co/product/slumber-cbn-full-spectrum-31-cbdcbn-drops/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - Sleep PM CBD Oil <a name="product-87"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - Sleep PM CBD Oil
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-sleep-pm-cbd-oil/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## CBDfx - Sweet Dreams THC + CBD Drops <a name="product-88"></a>
-
-### Product Details
-
-- **Product Name:** CBDfx - Sweet Dreams THC + CBD Drops
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdfx-sweet-dreams-thc-cbd-drops/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - CBD Drink Mix <a name="product-89"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - CBD Drink Mix
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-cbd-drink-mix/)
-- **Price:** 12.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## CBDfx - Turmeric &amp; Spirulina CBD Gummies <a name="product-90"></a>
-
-### Product Details
-
-- **Product Name:** CBDfx - Turmeric &amp; Spirulina CBD Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdfx-turmeric-spirulina-cbd-gummies/)
-- **Price:** 54.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## CBDfx - Multivitamin CBD Gummies <a name="product-91"></a>
-
-### Product Details
-
-- **Product Name:** CBDfx - Multivitamin CBD Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdfx-multivitamin-cbd-gummies/)
-- **Price:** 54.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## CBDistillery - Broad Spectrum Oil <a name="product-92"></a>
-
-### Product Details
-
-- **Product Name:** CBDistillery - Broad Spectrum Oil
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdistillery-broad-spectrum-oil/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - PM Softgel Capsules <a name="product-93"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - PM Softgel Capsules
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-pm-softgel-capsules/)
-- **Price:** 49.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - Delta 9 THC Gummies <a name="product-94"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - Delta 9 THC Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-delta-9-gummies/)
-- **Price:** 29.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## CBDistillery - Full Spectrum CBD Oil <a name="product-95"></a>
-
-### Product Details
-
-- **Product Name:** CBDistillery - Full Spectrum CBD Oil
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdistillery-full-spectrum-cbd-oil/)
-- **Price:** 44.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - Broad Spectrum CBD Oil <a name="product-96"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - Broad Spectrum CBD Oil
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-broad-spectrum-cbd-oil/)
-- **Price:** 39.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - Broad Spectrum Tropical Mix Gummies <a name="product-97"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - Broad Spectrum Tropical Mix Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-broad-spectrum-tropical-mix-gummies/)
-- **Price:** 19.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - CBD Oil Softgel Capsules <a name="product-98"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - CBD Oil Softgel Capsules
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-cbd-oil-softgel-capsules/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - Full Spectrum Softgels <a name="product-99"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - Full Spectrum Softgels
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-full-spectrum-softgels/)
-- **Price:** 79.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## cbdMD - Full Spectrum CBD Gummies <a name="product-100"></a>
-
-### Product Details
-
-- **Product Name:** cbdMD - Full Spectrum CBD Gummies
-- **Product URL:** [Link](https://wellnesssupply.co/product/cbdmd-full-spectrum-cbd-gummies/)
-- **Price:** 59.99
-- **COA:** Insert lab result link here
-
-### Keyword Analysis
-
-Keyword | Search Volume | Keyword Difficulty | Current Ranking | Notes
---------|---------------|-------------------|-----------------|------
-[Keyword 1] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-[Keyword 2] | [Search Volume] | [Keyword Difficulty] | [Current Ranking] | [Notes]
-... | ... | ... | ... | ...
-
-
-## Strategy Recommendations <a name="strategy-recommendations"></a>
+## Strategy Recommendations
 
 [Add your strategy recommendations here based on the keyword research findings]
+
 
