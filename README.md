@@ -302,7 +302,7 @@ Q: Do Slumber CBG's Afternoon Delight Chill & Buzz Gummies contain any artificia
 A: No, our gummies do not contain any artificial flavors or colors.
 ```
 
-
+```
 ## Guide to Markdown
 
 Markdown is a lightweight markup language that allows you to format text documents with simple syntax. It is widely used for creating structured and stylized content across various platforms. Here are some key elements and tips to help you master Markdown:
@@ -310,22 +310,22 @@ Markdown is a lightweight markup language that allows you to format text documen
 ### Headings
 
 Use hashtags (#) to create headings. The number of hashtags determines the heading level. For example:
-```# Heading 1
+# Heading 1
 ## Heading 2
-### Heading 3```
+### Heading 3
 
 ### Text Formatting
 
-```- *Italic*: Surround the text with asterisks or underscores. Example: *Italic* or _Italic_.
+- *Italic*: Surround the text with asterisks or underscores. Example: *Italic* or _Italic_.
 - **Bold**: Use double asterisks or underscores. Example: **Bold** or __Bold__.
-- ~~Strikethrough~~: Enclose the text with double tildes. Example: ~~Strikethrough~~.```
+- ~~Strikethrough~~: Enclose the text with double tildes. Example: ~~Strikethrough~~.
 
 ### Lists
 
-```- Unordered List: Use dashes, asterisks, or plus signs to create unordered lists. Example:
+- Unordered List: Use dashes, asterisks, or plus signs to create unordered lists. Example:
 - Item 1
 - Item 2
-- Item 3```
+- Item 3
 
 1. Ordered List: Begin each item with a number followed by a period. Example:
 1. Item 1
@@ -360,3 +360,4 @@ Use hashtags (#) to create headings. The number of hashtags determines the headi
 
 These are just a few of the many features available in Markdown. Experiment and explore to create visually appealing and well-structured documents!
 ```
+
