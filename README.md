@@ -362,5 +362,5 @@ Use hashtags (#) to create headings. The number of hashtags determines the headi
 ---
 
 These are just a few of the many features available in Markdown. Experiment and explore to create visually appealing and well-structured documents!
-```
+
 
