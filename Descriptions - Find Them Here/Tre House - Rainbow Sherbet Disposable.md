@@ -1,5 +1,4 @@
-
-            # Tre House - Rainbow Sherbet
+# Tre House - Rainbow Sherbet
 
 Tre House Rainbow Sherbet is a unique and delicious CBD product that offers all the benefits of CBD in a delicious, creamy treat. Our Rainbow Sherbet is made with premium hemp extract and natural fruit flavors, giving you a refreshingly sweet and flavorful experience. Each scoop contains 25mg of CBD, making it the perfect snack for those looking to get their daily dose of CBD.
 
