@@ -328,7 +328,8 @@ Use hashtags (#) to create headings. The number of hashtags determines the headi
 - Item 2
 - Item 3
 
-1. Ordered List: Begin each item with a number followed by a period. Example:
+ Ordered List: Begin each item with a number followed by a period. Example:
+ 
 1. Item 1
 2. Item 2
 3. Item 3
