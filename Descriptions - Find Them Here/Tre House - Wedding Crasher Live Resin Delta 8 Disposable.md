@@ -1,5 +1,5 @@
 
-            # Tre House - Wedding Crasher Live Resin Delta 8 Disposable
+# Tre House - Wedding Crasher Live Resin Delta 8 Disposable
 
 Tre House's Wedding Crasher Live Resin Delta 8 Disposable is the perfect way to enjoy the benefits of Delta 8 without the hassle of rolling your own. This convenient and discreet disposable vape pen contains 500mg of high-quality full-spectrum Delta 8 in a live resin distillate. The Wedding Crasher is designed to provide a smooth, flavorful, and enjoyable experience.
 
