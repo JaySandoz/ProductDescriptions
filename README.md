@@ -1,6 +1,6 @@
 # Product Description Accuracy Check ✅🔍😄
 
-Welcome to the Product Description Accuracy Check Guide, I love you!! 🎉📝
+Welcome to the Product Description Accuracy Check Guide, 👩‍❤️‍💋‍👨 I love you!! 🎉📝
 
 This README file provides instructions on how to verify the accuracy of product descriptions generated using AI models. Since AI-generated descriptions can sometimes be a bit "creative," it's important to review and validate the content before using it for any serious business. Let's make sure those descriptions are accurate and bring a smile to your face! 😄✨
 
