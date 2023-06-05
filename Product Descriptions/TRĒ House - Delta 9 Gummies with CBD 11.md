@@ -37,3 +37,41 @@ Are you new to CBD or THC? Check out these informative resources to learn more a
 - [CBD Benefits: How Cannabidiol Can Improve Your Health](https://www.healthline.com/health/cbd-benefits)
 - [The Benefits of THC](https://www.leafly.com/news/cannabis-101/what-are-the-benefits-of-thc) 
 - [CBD and THC: What’s the Difference?](https://www.webmd.com/pain-management/what-is-the-difference-between-cbd-and-thc# 1)
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

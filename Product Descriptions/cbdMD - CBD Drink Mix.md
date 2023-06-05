@@ -36,3 +36,41 @@ A Certificate of Analysis (COA) is available on the cbdMD website, providing cus
 -Learn more about the natural benefits of CBD with this informative article: https://www.cbdmd.com/blog/what-are-the-benefits-of-cbd
 -Watch this video to learn more about the different types of CBD: https://www.youtube.com/watch?v=R3jfN7V1WgE
 -Read this blog post to learn more about the therapeutic benefits of CBD: https://www.cbdmd.com/blog/what-are-the-therapeutic-benefits-of-cbd
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

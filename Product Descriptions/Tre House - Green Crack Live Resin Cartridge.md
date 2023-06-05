@@ -36,3 +36,41 @@ Learn more about the benefits of Delta 8 THC with these informative resources:
 - [Delta 8 THC vs Delta 9 THC](link)
 - [How to Use Delta 8 THC](link)
 - [The Difference Between CBD and Delta 8 THC](link)
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

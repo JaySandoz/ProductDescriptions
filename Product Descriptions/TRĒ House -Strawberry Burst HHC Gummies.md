@@ -36,3 +36,41 @@ At TRĒ House, we believe in educating our customers about the health and wellne
 - [The Benefits of THC](https://www.leafly.com/news/cannabis-101/what-is-thc-and-what-are-its-effects)
 - [Video: What is CBD?](https://www.youtube.com/watch?v=3yQqA4wzSg8)
 - [Blog Post: The Health Benefits of CBD](https://www.webmd.com/pain-management/cbd-oil-benefits# 1)
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

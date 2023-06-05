@@ -32,3 +32,41 @@ A: Yes, Tre House’s Live Resin Delta 8 Ice Cream Cake is safe to use. However,
 - [Delta 8 THC: What You Need to Know] (https://www.cannabisindustryjournal.com/column/delta-8-thc-what-you-need-to-know/)
 - [What is Delta 8 THC and How Does it Work?] (https://www.marijuanabreak.com/delta-8-thc)
 - [The Benefits of Delta 8 THC] (https://www.hightimes.com/health/benefits-delta-8-thc/)
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

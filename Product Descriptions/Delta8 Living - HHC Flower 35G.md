@@ -32,3 +32,41 @@ Q: Who should not use Delta8 Living's HHC Flower 3.5G?
 A: Delta8 Living's HHC Flower 3.5G is not recommended for pregnant or breastfeeding women, or those under the age of 18.
 ## Educational Resources
 Delta8 Living provides a variety of educational resources about CBD and THC, and their benefits. Learn more about the different cannabinoids and terpenes found in Delta8 Living's HHC Flower 3.5G [here](www.delta8living.com/blog/cannabinoids-and-terpenes-explained). Also, check out this informative video about the benefits of Delta8 THC [here](www.delta8living.com/blog/what-is-delta8-thc).
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

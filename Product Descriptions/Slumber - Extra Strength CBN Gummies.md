@@ -32,3 +32,41 @@ Q: Where can I find the lab results for Slumber CBN's Extra Strength CBN Gummies
 A: You can find the lab results here: [Link to Lab Results]. 
 ## Educational Resources
 CBD and THC are two of the most well-known cannabinoids found in hemp and cannabis plants. CBD is known for its calming effects and is often used to promote relaxation and reduce stress. THC is known for its psychoactive effects and is often used to promote a feeling of euphoria. To learn more about the differences between CBD and THC, check out this article: [Link to Article]. To learn more about the potential benefits of cannabinoids, check out this blog post: [Link to Blog Post]. To learn more about the legal status of CBD and THC, check out this video: [Link to Video].
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

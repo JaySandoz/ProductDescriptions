@@ -38,10 +38,7 @@ Answer: You can view the lab results here: [insert link].
 - [The Benefits of CBD: What is CBD Used For?](https://www.cbdliving.com/blogs/cbd-news/the-benefits-of-cbd-what-is-cbd-used-for)
 - [How to Use CBD: What Are the Different Ways to Take CBD?](https://www.cbdliving.com/blogs/cbd-news/how-to-use-cbd-what-are-the-different-ways-to-take-cbd)
 - [CBD and Hydration: How CBD Can Help You Stay Hydrated](https://www.cbdliving.com/blogs/cbd-news/cbd-and-hydration-how-cbd-can-help-you-stay-hydrated)
-
----
-
-# 🛠️ For Developer & SEO Specalist Use Only 🔐
+# 🛠️ For Developer Use Only 🔐
 
 Below are the tables for storing SEO-related information of WooCommerce products. 👇
 

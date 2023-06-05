@@ -33,3 +33,41 @@ Q: What are the benefits of using the melts?
 A: Foria - Intimacy CBD Melts provide a range of benefits that can help you experience the ultimate in pleasure and relaxation. The melts are designed to help increase arousal, lubrication, and relaxation for a heightened experience. Enjoy the calming and soothing effects of the melts, and the enhanced pleasure and relaxation that comes with them. 
 ## Educational Resources
 Foria provides informative resources about CBD and its benefits. Read our blog post about the benefits of CBD for enhanced pleasure and relaxation, or watch our video about the effects of CBD on the body. Learn more about the therapeutic benefits of CBD and how it can improve your well-being.
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

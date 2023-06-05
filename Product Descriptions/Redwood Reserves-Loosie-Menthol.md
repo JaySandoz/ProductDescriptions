@@ -30,3 +30,41 @@ Q: Is Redwood Reserves-Loosie-Menthol lab tested?
 A: Yes, Redwood Reserves-Loosie-Menthol is rigorously tested and certified for quality assurance. Check out the lab results here: [INSERT LINK].
 ## Educational Resources
 CBD and THC are two of the most popular cannabinoids found in hemp and cannabis. CBD has many potential benefits, such as easing anxiety, pain relief, and improving overall well-being. THC, on the other hand, is known for its psychoactive effects. For more information, check out this article: [INSERT LINK]. For a comprehensive overview of CBD and THC, watch this video: [INSERT LINK].
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

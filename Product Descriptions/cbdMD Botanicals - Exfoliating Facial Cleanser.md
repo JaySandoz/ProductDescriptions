@@ -35,3 +35,41 @@ A: Yes, this product is made with natural hemp extract, botanicals, and plant-ba
 CBD and THC are two of the most popular cannabinoids on the market. To learn more about the differences between CBD and THC, check out this article from cbdMD: [CBD vs. THC: What’s the Difference?](https://www.cbdmd.com/cbd-vs-thc) 
 For more information about the benefits of CBD and THC, watch this video from cbdMD: [CBD and THC: The Benefits Explained](https://www.youtube.com/watch?v=4Gqf2m0-ZYs) 
 And for more educational resources, head over to the cbdMD blog: [The cbdMD Blog](https://www.cbdmd.com/blog)
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

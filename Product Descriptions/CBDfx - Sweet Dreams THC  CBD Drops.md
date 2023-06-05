@@ -33,3 +33,41 @@ Q: Are there any customer testimonials for CBDfx's Sweet Dreams THC + CBD Drops?
 A: Yes, many customers have had great success with CBDfx's Sweet Dreams THC + CBD Drops. Here is an example of a customer testimonial: "I've been using CBDfx's Sweet Dreams THC + CBD Drops for a few weeks now and I'm really happy with the results. I'm sleeping better and feeling more relaxed. Highly recommend!" - John S.
 ## Educational Resources
 CBDfx provides informative resources about the benefits of CBD and THC. Check out our blog post on [CBD and THC: What's the Difference?](https://www.cbdfx.com/blogs/cbd-101/cbd-vs-thc-whats-the-difference) or our video on [What is CBD?](https://www.youtube.com/watch?v=6_OjNbN5gxo) to learn more about these powerful cannabinoids.
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

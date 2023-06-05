@@ -37,3 +37,41 @@ A: No, cbdMD's Broad Spectrum CBD Oil is THC-free.
 - [The Entourage Effect: How CBD Works with Other Cannabinoids](https://www.cbdmd.com/blog/the-entourage-effect-how-cbd-works-with-other-cannabinoids)
 - [CBD vs. THC: What's the Difference?](https://www.cbdmd.com/blog/cbd-vs-thc-whats-the-difference) 
 - [CBD Oil Dosage: How Much Should I Take?](https://www.cbdmd.com/blog/cbd-oil-dosage-how-much-should-i-take)
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

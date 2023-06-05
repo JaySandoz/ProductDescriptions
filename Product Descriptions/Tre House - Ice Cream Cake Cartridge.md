@@ -33,3 +33,41 @@ Q: What is the dosage of Delta 8 THC in the Ice Cream Cake Cartridge?
 A: Each cartridge contains 500mg of Delta 8 THC distillate.
 ## Educational Resources
 CBD and THC are both cannabinoids found in the cannabis plant. While they have similar effects on the body, there are some key differences between the two. CBD is non-intoxicating and does not produce a “high”, while THC does produce a “high”. To learn more about the differences between CBD and THC, check out this article from Healthline: [INSERT LINK]. To learn more about the potential benefits of CBD and THC, check out this video from Leafly: [INSERT LINK].
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

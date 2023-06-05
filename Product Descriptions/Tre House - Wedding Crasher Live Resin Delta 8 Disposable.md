@@ -35,3 +35,41 @@ Learn more about the unique benefits of Delta 8 THC and how it can improve your 
 - [Delta 8 THC: What is it and what are the benefits?](https://www.trehouse.com/blogs/news/delta-8-thc-what-is-it-and-what-are-the-benefits)
 - [The Ultimate Guide to Delta 8 THC](https://www.trehouse.com/blogs/news/the-ultimate-guide-to-delta-8-thc)
 - [What is Delta 8 THC and what are its effects?](https://www.trehouse.com/blogs/news/what-is-delta-8-thc-and-what-are-its-effects)
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

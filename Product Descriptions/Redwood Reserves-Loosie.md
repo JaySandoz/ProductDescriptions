@@ -37,3 +37,41 @@ Redwood Reserves-Loosie is perfect for those looking to experience the natural w
 - [CBD: What You Need to Know](https://www.webmd.com/pain-management/news/20180824/cbd-what-you-need-to-know)
 - [CBD: A Beginner's Guide](https://www.cannabisculture.com/content/2019/04/10/cbd-a-beginners-guide/)
 - [CBD 101: What is CBD and How Does it Work?](https://www.cannabisbusinesstimes.com/article/cbd-101-what-is-cbd-and-how-does-it-work/)
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

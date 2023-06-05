@@ -32,3 +32,41 @@ Q: What other ingredients are in the chews?
 A: Paw CBD's Canine Calming Chews are made with natural calming ingredients like chamomile, passion flower, ginger, and lemon balm. 
 ## Educational Resources
 Paw CBD's Canine Calming Chews are made with organic, non-psychoactive hemp extract, which has been scientifically proven to help reduce stress and anxiety in dogs. To learn more about the benefits of CBD, check out this article from the American Kennel Club: [INSERT LINK TO ARTICLE]. You can also watch this video from Paw CBD to learn more about how CBD can help improve your pup's overall wellness: [INSERT LINK TO VIDEO].
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |

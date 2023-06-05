@@ -30,3 +30,41 @@ Q: Is it safe to use Smoking Dog’s THC:CBD Freeze 500MG?
 A: Smoking Dog’s THC:CBD Freeze 500MG is safe for all skin types and can be used as needed. However, it is recommended to consult with a healthcare professional before using any new product.
 ## Educational Resources
 CBD and THC have many potential benefits and can be used to treat a variety of ailments. To learn more about the benefits of CBD and THC, check out [this article](insert link) from Smoking Dog. Additionally, [this video](insert link) provides an in-depth overview of the different types of cannabinoids and their potential benefits.
+# 🛠️ For Developer Use Only 🔐
+
+Below are the tables for storing SEO-related information of WooCommerce products. 👇
+
+## 🏷️ Basic Information 
+
+| 🏷️ Product Name | 📝 Meta Description | 🕸️ Slug | 🏷️ SEO-friendly Title |
+| -------------- | ------------------ | ------ | ---------------------- |
+|                |                    |        |                        |
+|                |                    |        |                        |
+
+## 📸 Media Information
+
+| 🖼️ Alt Tags for Images | 📊 Schema Markup |
+| --------------------- | --------------- |
+|                       |                 |
+|                       |                 |
+
+## 🔎 SEO Optimization
+
+| 🎯 Keyword Targeting | 🏷️ SEO Tags |
+| ------------------- | ---------- |
+|                     |            |
+|                     |            |
+
+## 🔗 Linking Strategy 
+
+| 🔗 Internal Links | 🔗 External Links |
+| ---------------- | ---------------- |
+|                  |                  |
+|                  |                  |
+
+## 🏷️ Product Classification 
+
+| 📂 Product Categories | 🏷️ Product Tags | 🕸️ Canonical URL |
+| ------------------ | ------------ | ------------- |
+|                    |              |               |
+|                    |              |               |
