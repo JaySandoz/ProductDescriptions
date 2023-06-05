@@ -23,9 +23,8 @@ If you want to work on an existing Git repository that is hosted on GitHub, you 
 4. Type `git clone <repository-url>` and press Enter. Replace `<repository-url>` with the URL you copied from GitHub.
 
 ```markdown
-```
 git clone https://github.com/JaySandoz/ProductDescriptions.git
-```
+
 5. Git will start cloning the repository, including all its files and commit history. Once it's done, you will have a local copy of the repository on your Mac/PC.
 
 Cloning a repository creates a local copy of the code on your machine, allowing you to work on it and make changes without affecting the original repository.
