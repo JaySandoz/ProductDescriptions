@@ -28,7 +28,7 @@ This Python script updates the descriptions of all products in your WooCommerce 
 
 Prepare Markdown files for each product with the product's description. The filename should be the product name with special characters removed, spaces replaced with underscores, and the `.md` extension.
 
-Run the script: `python main.py`
+Run the script: `python descriptions.py`
 
 Voilà! The script will fetch all products from your WooCommerce store and effortlessly update their descriptions based on the corresponding Markdown files. 📝✨
 
