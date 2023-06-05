@@ -21,10 +21,6 @@ That's it! You've successfully edited an MD file on GitHub. :tada:
 
 Welcome to our unconventional, tech-savvy approach to content creation! 🎉
 
-## About This Format 🤖
-
-Welcome to our quirky and efficient content creation approach! 🎉
-
 ### Why This Format?
 
 👉 **Copy/paste wizardry**: Simply copy the top of the readme file into WordPress's text editor on the "Edit Product" page, and like magic, all the formatting will effortlessly transfer over. No more battling with formatting gremlins! ✨
