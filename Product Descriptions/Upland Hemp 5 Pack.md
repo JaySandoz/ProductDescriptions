@@ -36,4 +36,4 @@ A: The CBD concentration of the Upland Hemp 5 Pack is 18-20%.
 The Upland Hemp 5 Pack is the perfect choice for anyone looking for a natural way to relax and unwind. To learn more about the therapeutic benefits of CBD and hemp, check out these informative articles:
 - [The Benefits of CBD](https://www.leafly.com/news/cannabis-101/what-are-the-benefits-of-cbd)
 - [CBD vs. THC: What's the Difference?](https://www.healthline.com/health/cbd-vs-thc)
-- [Hemp: What You Need to Know](https://www.medicalnewstoday.com/articles/hemp-what-you-need-to-know#benefits)
+- [Hemp: What You Need to Know](https://www.medicalnewstoday.com/articles/hemp-what-you-need-to-know# benefits)

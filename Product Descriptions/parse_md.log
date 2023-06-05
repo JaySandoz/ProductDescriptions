@@ -1,0 +1,262 @@
+2023-06-04 17:17:40,124 - INFO - Start parsing files in .
+2023-06-04 17:17:40,124 - INFO - Processing file: ./CBDistillery - Full Spectrum CBD Oil.md
+2023-06-04 17:17:40,124 - INFO - Found "#text" or "##text" pattern in file: ./CBDistillery - Full Spectrum CBD Oil.md
+2023-06-04 17:17:40,124 - INFO - Successfully updated file: ./CBDistillery - Full Spectrum CBD Oil.md
+2023-06-04 17:17:40,124 - INFO - Processing file: ./cbdMD - Freeze Roll On.md
+2023-06-04 17:17:40,125 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD - Freeze Roll On.md
+2023-06-04 17:17:40,125 - INFO - Processing file: ./Redwood Reserves-Loosie-Menthol.md
+2023-06-04 17:17:40,125 - INFO - Found "#text" or "##text" pattern in file: ./Redwood Reserves-Loosie-Menthol.md
+2023-06-04 17:17:40,125 - INFO - Successfully updated file: ./Redwood Reserves-Loosie-Menthol.md
+2023-06-04 17:17:40,125 - INFO - Processing file: ./VitaDreamz - Sleep EZ Pillows.md
+2023-06-04 17:17:40,125 - INFO - Found "#text" or "##text" pattern in file: ./VitaDreamz - Sleep EZ Pillows.md
+2023-06-04 17:17:40,125 - INFO - Successfully updated file: ./VitaDreamz - Sleep EZ Pillows.md
+2023-06-04 17:17:40,125 - INFO - Processing file: ./Delta8Living - Delta 8 Moonrocks.md
+2023-06-04 17:17:40,125 - INFO - Found "#text" or "##text" pattern in file: ./Delta8Living - Delta 8 Moonrocks.md
+2023-06-04 17:17:40,125 - INFO - Successfully updated file: ./Delta8Living - Delta 8 Moonrocks.md
+2023-06-04 17:17:40,125 - INFO - Processing file: ./Redwood Reserves-Pack.md
+2023-06-04 17:17:40,126 - INFO - Found "#text" or "##text" pattern in file: ./Redwood Reserves-Pack.md
+2023-06-04 17:17:40,126 - INFO - Successfully updated file: ./Redwood Reserves-Pack.md
+2023-06-04 17:17:40,126 - INFO - Processing file: ./cbdMD Botanicals - moroccan Rose Moisture Mist.md
+2023-06-04 17:17:40,126 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD Botanicals - moroccan Rose Moisture Mist.md
+2023-06-04 17:17:40,126 - INFO - Processing file: ./TRĒ House - Delta 10 Gummies with HHC and Delta 9.md
+2023-06-04 17:17:40,126 - INFO - No "#text" or "##text" pattern found in file: ./TRĒ House - Delta 10 Gummies with HHC and Delta 9.md
+2023-06-04 17:17:40,126 - INFO - Processing file: ./Honeyroot Delta 8 1G Disposable THC Pen.md
+2023-06-04 17:17:40,126 - INFO - Found "#text" or "##text" pattern in file: ./Honeyroot Delta 8 1G Disposable THC Pen.md
+2023-06-04 17:17:40,126 - INFO - Successfully updated file: ./Honeyroot Delta 8 1G Disposable THC Pen.md
+2023-06-04 17:17:40,126 - INFO - Processing file: ./Slumber CBN - Full Spectrum 31 CBDCBN Drops.md
+2023-06-04 17:17:40,126 - INFO - Found "#text" or "##text" pattern in file: ./Slumber CBN - Full Spectrum 31 CBDCBN Drops.md
+2023-06-04 17:17:40,126 - INFO - Successfully updated file: ./Slumber CBN - Full Spectrum 31 CBDCBN Drops.md
+2023-06-04 17:17:40,126 - INFO - Processing file: ./CBDfx - Bath Bombs.md
+2023-06-04 17:17:40,127 - INFO - Found "#text" or "##text" pattern in file: ./CBDfx - Bath Bombs.md
+2023-06-04 17:17:40,127 - INFO - Successfully updated file: ./CBDfx - Bath Bombs.md
+2023-06-04 17:17:40,127 - INFO - Processing file: ./cbdMD Botanicals - Creamy Cleanser.md
+2023-06-04 17:17:40,127 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD Botanicals - Creamy Cleanser.md
+2023-06-04 17:17:40,127 - INFO - Processing file: ./Redwood Reserves-Loosie.md
+2023-06-04 17:17:40,127 - INFO - Found "#text" or "##text" pattern in file: ./Redwood Reserves-Loosie.md
+2023-06-04 17:17:40,127 - INFO - Successfully updated file: ./Redwood Reserves-Loosie.md
+2023-06-04 17:17:40,127 - INFO - Processing file: ./cbdMD - PM Softgel Capsules.md
+2023-06-04 17:17:40,127 - INFO - Found "#text" or "##text" pattern in file: ./cbdMD - PM Softgel Capsules.md
+2023-06-04 17:17:40,127 - INFO - Successfully updated file: ./cbdMD - PM Softgel Capsules.md
+2023-06-04 17:17:40,127 - INFO - Processing file: ./cbdMD Botanicals - The Everyday Oil.md
+2023-06-04 17:17:40,127 - INFO - Found "#text" or "##text" pattern in file: ./cbdMD Botanicals - The Everyday Oil.md
+2023-06-04 17:17:40,128 - INFO - Successfully updated file: ./cbdMD Botanicals - The Everyday Oil.md
+2023-06-04 17:17:40,128 - INFO - Processing file: ./TRĒ House -Strawberry Burst HHC Gummies.md
+2023-06-04 17:17:40,128 - INFO - Found "#text" or "##text" pattern in file: ./TRĒ House -Strawberry Burst HHC Gummies.md
+2023-06-04 17:17:40,128 - INFO - Successfully updated file: ./TRĒ House -Strawberry Burst HHC Gummies.md
+2023-06-04 17:17:40,128 - INFO - Processing file: ./Tre House - Wedding Cake - D8  D9  D10  THC-P.md
+2023-06-04 17:17:40,128 - INFO - No "#text" or "##text" pattern found in file: ./Tre House - Wedding Cake - D8  D9  D10  THC-P.md
+2023-06-04 17:17:40,128 - INFO - Processing file: ./Cbdmd - Full Spectrum Cbd Tincture Oil.md
+2023-06-04 17:17:40,128 - INFO - Found "#text" or "##text" pattern in file: ./Cbdmd - Full Spectrum Cbd Tincture Oil.md
+2023-06-04 17:17:40,128 - INFO - Successfully updated file: ./Cbdmd - Full Spectrum Cbd Tincture Oil.md
+2023-06-04 17:17:40,128 - INFO - Processing file: ./Tre House - Green Crack Live Resin Cartridge.md
+2023-06-04 17:17:40,128 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Green Crack Live Resin Cartridge.md
+2023-06-04 17:17:40,129 - INFO - Successfully updated file: ./Tre House - Green Crack Live Resin Cartridge.md
+2023-06-04 17:17:40,129 - INFO - Processing file: ./cbdMD - Broad Spectrum Tropical Mix Gummies.md
+2023-06-04 17:17:40,129 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD - Broad Spectrum Tropical Mix Gummies.md
+2023-06-04 17:17:40,129 - INFO - Processing file: ./Tre House - D9  CBD Cookie.md
+2023-06-04 17:17:40,129 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - D9  CBD Cookie.md
+2023-06-04 17:17:40,129 - INFO - Successfully updated file: ./Tre House - D9  CBD Cookie.md
+2023-06-04 17:17:40,129 - INFO - Processing file: ./Hi On Nature - Space Rings.md
+2023-06-04 17:17:40,129 - INFO - Found "#text" or "##text" pattern in file: ./Hi On Nature - Space Rings.md
+2023-06-04 17:17:40,129 - INFO - Successfully updated file: ./Hi On Nature - Space Rings.md
+2023-06-04 17:17:40,129 - INFO - Processing file: ./Upland Hemp 5 Pack.md
+2023-06-04 17:17:40,130 - INFO - Found "#text" or "##text" pattern in file: ./Upland Hemp 5 Pack.md
+2023-06-04 17:17:40,130 - INFO - Successfully updated file: ./Upland Hemp 5 Pack.md
+2023-06-04 17:17:40,130 - INFO - Processing file: ./Redwood Reserves-Menthol Crush Pack.md
+2023-06-04 17:17:40,130 - INFO - No "#text" or "##text" pattern found in file: ./Redwood Reserves-Menthol Crush Pack.md
+2023-06-04 17:17:40,130 - INFO - Processing file: ./TRĒ House - Live Resin HHC Vape Pen.md
+2023-06-04 17:17:40,130 - INFO - Found "#text" or "##text" pattern in file: ./TRĒ House - Live Resin HHC Vape Pen.md
+2023-06-04 17:17:40,130 - INFO - Successfully updated file: ./TRĒ House - Live Resin HHC Vape Pen.md
+2023-06-04 17:17:40,130 - INFO - Processing file: ./cbdMD Botanicals - Exfoliating Facial Cleanser.md
+2023-06-04 17:17:40,130 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD Botanicals - Exfoliating Facial Cleanser.md
+2023-06-04 17:17:40,130 - INFO - Processing file: ./Paw CBD - Canine CBD Oil.md
+2023-06-04 17:17:40,130 - INFO - Found "#text" or "##text" pattern in file: ./Paw CBD - Canine CBD Oil.md
+2023-06-04 17:17:40,130 - INFO - Successfully updated file: ./Paw CBD - Canine CBD Oil.md
+2023-06-04 17:17:40,131 - INFO - Processing file: ./Tre House - Acapulco Gold Preroll5PK.md
+2023-06-04 17:17:40,131 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Acapulco Gold Preroll5PK.md
+2023-06-04 17:17:40,131 - INFO - Successfully updated file: ./Tre House - Acapulco Gold Preroll5PK.md
+2023-06-04 17:17:40,131 - INFO - Processing file: ./Tre House THC-P Gummies - Mango.md
+2023-06-04 17:17:40,131 - INFO - Found "#text" or "##text" pattern in file: ./Tre House THC-P Gummies - Mango.md
+2023-06-04 17:17:40,131 - INFO - Successfully updated file: ./Tre House THC-P Gummies - Mango.md
+2023-06-04 17:17:40,131 - INFO - Processing file: ./cbdMD Botanicals - Luv Me Tender.md
+2023-06-04 17:17:40,131 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD Botanicals - Luv Me Tender.md
+2023-06-04 17:17:40,131 - INFO - Processing file: ./cbdMD - Full Spectrum Softgels.md
+2023-06-04 17:17:40,131 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD - Full Spectrum Softgels.md
+2023-06-04 17:17:40,131 - INFO - Processing file: ./cbdMD - CBD Drink Mix.md
+2023-06-04 17:17:40,132 - INFO - Found "#text" or "##text" pattern in file: ./cbdMD - CBD Drink Mix.md
+2023-06-04 17:17:40,132 - INFO - Successfully updated file: ./cbdMD - CBD Drink Mix.md
+2023-06-04 17:17:40,132 - INFO - Processing file: ./Paw CBD - Nose to Tose Balm.md
+2023-06-04 17:17:40,132 - INFO - Found "#text" or "##text" pattern in file: ./Paw CBD - Nose to Tose Balm.md
+2023-06-04 17:17:40,132 - INFO - Successfully updated file: ./Paw CBD - Nose to Tose Balm.md
+2023-06-04 17:17:40,132 - INFO - Processing file: ./cbdMD Botanicals - Exfoliating Face Mask.md
+2023-06-04 17:17:40,132 - INFO - Found "#text" or "##text" pattern in file: ./cbdMD Botanicals - Exfoliating Face Mask.md
+2023-06-04 17:17:40,132 - INFO - Successfully updated file: ./cbdMD Botanicals - Exfoliating Face Mask.md
+2023-06-04 17:17:40,132 - INFO - Processing file: ./Honeyroot - Delta 8 THC Cartridge.md
+2023-06-04 17:17:40,132 - INFO - Found "#text" or "##text" pattern in file: ./Honeyroot - Delta 8 THC Cartridge.md
+2023-06-04 17:17:40,132 - INFO - Successfully updated file: ./Honeyroot - Delta 8 THC Cartridge.md
+2023-06-04 17:17:40,133 - INFO - Processing file: ./Delta8 Living - Delta 8 Lemonade 100MG.md
+2023-06-04 17:17:40,133 - INFO - Found "#text" or "##text" pattern in file: ./Delta8 Living - Delta 8 Lemonade 100MG.md
+2023-06-04 17:17:40,133 - INFO - Successfully updated file: ./Delta8 Living - Delta 8 Lemonade 100MG.md
+2023-06-04 17:17:40,133 - INFO - Processing file: ./Paw CBD - Canine Soft Chews.md
+2023-06-04 17:17:40,133 - INFO - Found "#text" or "##text" pattern in file: ./Paw CBD - Canine Soft Chews.md
+2023-06-04 17:17:40,133 - INFO - Successfully updated file: ./Paw CBD - Canine Soft Chews.md
+2023-06-04 17:17:40,133 - INFO - Processing file: ./CBDfx - Disposable CBD Pen.md
+2023-06-04 17:17:40,133 - INFO - No "#text" or "##text" pattern found in file: ./CBDfx - Disposable CBD Pen.md
+2023-06-04 17:17:40,133 - INFO - Processing file: ./CBDLiving - Sparkling Water.md
+2023-06-04 17:17:40,133 - INFO - Found "#text" or "##text" pattern in file: ./CBDLiving - Sparkling Water.md
+2023-06-04 17:17:40,133 - INFO - Successfully updated file: ./CBDLiving - Sparkling Water.md
+2023-06-04 17:17:40,133 - INFO - Processing file: ./Tre House - GS Cookies Cartridge.md
+2023-06-04 17:17:40,134 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - GS Cookies Cartridge.md
+2023-06-04 17:17:40,134 - INFO - Successfully updated file: ./Tre House - GS Cookies Cartridge.md
+2023-06-04 17:17:40,134 - INFO - Processing file: ./Tre House - Ice Cream Cake Cartridge.md
+2023-06-04 17:17:40,134 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Ice Cream Cake Cartridge.md
+2023-06-04 17:17:40,134 - INFO - Successfully updated file: ./Tre House - Ice Cream Cake Cartridge.md
+2023-06-04 17:17:40,134 - INFO - Processing file: ./cbdMD Botanicals - Perfect Polish Facial Exfoliant.md
+2023-06-04 17:17:40,134 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD Botanicals - Perfect Polish Facial Exfoliant.md
+2023-06-04 17:17:40,134 - INFO - Processing file: ./TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack.md
+2023-06-04 17:17:40,134 - INFO - Found "#text" or "##text" pattern in file: ./TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack.md
+2023-06-04 17:17:40,134 - INFO - Successfully updated file: ./TRĒ House - Live Resin Delta 8 Vape Pen - Green Crack.md
+2023-06-04 17:17:40,134 - INFO - Processing file: ./cbdMD Botanicals - Clearskin Moisturizer.md
+2023-06-04 17:17:40,134 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD Botanicals - Clearskin Moisturizer.md
+2023-06-04 17:17:40,134 - INFO - Processing file: ./CBDfx - Multivitamin CBD Gummies.md
+2023-06-04 17:17:40,135 - INFO - Found "#text" or "##text" pattern in file: ./CBDfx - Multivitamin CBD Gummies.md
+2023-06-04 17:17:40,135 - INFO - Successfully updated file: ./CBDfx - Multivitamin CBD Gummies.md
+2023-06-04 17:17:40,135 - INFO - Processing file: ./CBDistillery - CBDol CBD Balm.md
+2023-06-04 17:17:40,135 - INFO - Found "#text" or "##text" pattern in file: ./CBDistillery - CBDol CBD Balm.md
+2023-06-04 17:17:40,135 - INFO - Successfully updated file: ./CBDistillery - CBDol CBD Balm.md
+2023-06-04 17:17:40,135 - INFO - Processing file: ./CBDistillery - Relax CBD Gummies.md
+2023-06-04 17:17:40,135 - INFO - Found "#text" or "##text" pattern in file: ./CBDistillery - Relax CBD Gummies.md
+2023-06-04 17:17:40,135 - INFO - Successfully updated file: ./CBDistillery - Relax CBD Gummies.md
+2023-06-04 17:17:40,135 - INFO - Processing file: ./Tre House - Wedding Crasher Live Resin Delta 8 Disposable.md
+2023-06-04 17:17:40,135 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Wedding Crasher Live Resin Delta 8 Disposable.md
+2023-06-04 17:17:40,135 - INFO - Successfully updated file: ./Tre House - Wedding Crasher Live Resin Delta 8 Disposable.md
+2023-06-04 17:17:40,135 - INFO - Processing file: ./TRĒ House - Delta 9 Gummies with CBD 11.md
+2023-06-04 17:17:40,136 - INFO - Found "#text" or "##text" pattern in file: ./TRĒ House - Delta 9 Gummies with CBD 11.md
+2023-06-04 17:17:40,136 - INFO - Successfully updated file: ./TRĒ House - Delta 9 Gummies with CBD 11.md
+2023-06-04 17:17:40,136 - INFO - Processing file: ./Tre House - Gelato Cartridge.md
+2023-06-04 17:17:40,136 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Gelato Cartridge.md
+2023-06-04 17:17:40,136 - INFO - Successfully updated file: ./Tre House - Gelato Cartridge.md
+2023-06-04 17:17:40,136 - INFO - Processing file: ./CBDfx - Sweet Dreams THC  CBD Drops.md
+2023-06-04 17:17:40,136 - INFO - Found "#text" or "##text" pattern in file: ./CBDfx - Sweet Dreams THC  CBD Drops.md
+2023-06-04 17:17:40,136 - INFO - Successfully updated file: ./CBDfx - Sweet Dreams THC  CBD Drops.md
+2023-06-04 17:17:40,136 - INFO - Processing file: ./Paw CBD - Hard Chews.md
+2023-06-04 17:17:40,136 - INFO - Found "#text" or "##text" pattern in file: ./Paw CBD - Hard Chews.md
+2023-06-04 17:17:40,136 - INFO - Successfully updated file: ./Paw CBD - Hard Chews.md
+2023-06-04 17:17:40,136 - INFO - Processing file: ./Redwood Reserves-Hemp Joint-lavender.md
+2023-06-04 17:17:40,136 - INFO - No "#text" or "##text" pattern found in file: ./Redwood Reserves-Hemp Joint-lavender.md
+2023-06-04 17:17:40,137 - INFO - Processing file: ./CBDistillery - Broad Spectrum Oil.md
+2023-06-04 17:17:40,137 - INFO - No "#text" or "##text" pattern found in file: ./CBDistillery - Broad Spectrum Oil.md
+2023-06-04 17:17:40,137 - INFO - Processing file: ./Honeyroot  The Hive Collection 2G Disposable THC Pen.md
+2023-06-04 17:17:40,137 - INFO - Found "#text" or "##text" pattern in file: ./Honeyroot  The Hive Collection 2G Disposable THC Pen.md
+2023-06-04 17:17:40,137 - INFO - Successfully updated file: ./Honeyroot  The Hive Collection 2G Disposable THC Pen.md
+2023-06-04 17:17:40,137 - INFO - Processing file: ./cbdMD - Recover.md
+2023-06-04 17:17:40,137 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD - Recover.md
+2023-06-04 17:17:40,137 - INFO - Processing file: ./Tre House - Super Lemon Haze Delta 8 Live Resin Disposable.md
+2023-06-04 17:17:40,137 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Super Lemon Haze Delta 8 Live Resin Disposable.md
+2023-06-04 17:17:40,137 - INFO - Successfully updated file: ./Tre House - Super Lemon Haze Delta 8 Live Resin Disposable.md
+2023-06-04 17:17:40,137 - INFO - Processing file: ./Tre House - Live Resin THC-P - White Widow.md
+2023-06-04 17:17:40,137 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Live Resin THC-P - White Widow.md
+2023-06-04 17:17:40,138 - INFO - Successfully updated file: ./Tre House - Live Resin THC-P - White Widow.md
+2023-06-04 17:17:40,138 - INFO - Processing file: ./D8-Hi - Delta 8 Cookies.md
+2023-06-04 17:17:40,138 - INFO - Found "#text" or "##text" pattern in file: ./D8-Hi - Delta 8 Cookies.md
+2023-06-04 17:17:40,138 - INFO - Successfully updated file: ./D8-Hi - Delta 8 Cookies.md
+2023-06-04 17:17:40,138 - INFO - Processing file: ./Smoking Dog - THCCBD Freeze 500MG.md
+2023-06-04 17:17:40,138 - INFO - Found "#text" or "##text" pattern in file: ./Smoking Dog - THCCBD Freeze 500MG.md
+2023-06-04 17:17:40,138 - INFO - Successfully updated file: ./Smoking Dog - THCCBD Freeze 500MG.md
+2023-06-04 17:17:40,138 - INFO - Processing file: ./cbdMD - Delta 9 THC Gummies.md
+2023-06-04 17:17:40,138 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD - Delta 9 THC Gummies.md
+2023-06-04 17:17:40,138 - INFO - Processing file: ./Tre House - Rainbow Runtz Prerolls5PK.md
+2023-06-04 17:17:40,138 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Rainbow Runtz Prerolls5PK.md
+2023-06-04 17:17:40,138 - INFO - Successfully updated file: ./Tre House - Rainbow Runtz Prerolls5PK.md
+2023-06-04 17:17:40,139 - INFO - Processing file: ./CBDLiving - Nano CBD infused Water.md
+2023-06-04 17:17:40,139 - INFO - Found "#text" or "##text" pattern in file: ./CBDLiving - Nano CBD infused Water.md
+2023-06-04 17:17:40,139 - INFO - Successfully updated file: ./CBDLiving - Nano CBD infused Water.md
+2023-06-04 17:17:40,139 - INFO - Processing file: ./Galaxy Treats - Cosmic Treats 100MG D8.md
+2023-06-04 17:17:40,139 - INFO - Found "#text" or "##text" pattern in file: ./Galaxy Treats - Cosmic Treats 100MG D8.md
+2023-06-04 17:17:40,139 - INFO - Successfully updated file: ./Galaxy Treats - Cosmic Treats 100MG D8.md
+2023-06-04 17:17:40,139 - INFO - Processing file: ./cbdMD - Broad Spectrum CBD Oil.md
+2023-06-04 17:17:40,139 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD - Broad Spectrum CBD Oil.md
+2023-06-04 17:17:40,139 - INFO - Processing file: ./Tre House - Live Resin Delta 8 Ice Cream Cake.md
+2023-06-04 17:17:40,139 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Live Resin Delta 8 Ice Cream Cake.md
+2023-06-04 17:17:40,139 - INFO - Successfully updated file: ./Tre House - Live Resin Delta 8 Ice Cream Cake.md
+2023-06-04 17:17:40,140 - INFO - Processing file: ./Paw CBD - Canine Calming Chews.md
+2023-06-04 17:17:40,140 - INFO - Found "#text" or "##text" pattern in file: ./Paw CBD - Canine Calming Chews.md
+2023-06-04 17:17:40,140 - INFO - Successfully updated file: ./Paw CBD - Canine Calming Chews.md
+2023-06-04 17:17:40,140 - INFO - Processing file: ./Delta8 Living - Delta 8 Flower.md
+2023-06-04 17:17:40,140 - INFO - Found "#text" or "##text" pattern in file: ./Delta8 Living - Delta 8 Flower.md
+2023-06-04 17:17:40,140 - INFO - Successfully updated file: ./Delta8 Living - Delta 8 Flower.md
+2023-06-04 17:17:40,140 - INFO - Processing file: ./Full-Spectrum Premium Hemp Extract Tincture 1000 mg.md
+2023-06-04 17:17:40,140 - INFO - Found "#text" or "##text" pattern in file: ./Full-Spectrum Premium Hemp Extract Tincture 1000 mg.md
+2023-06-04 17:17:40,140 - INFO - Successfully updated file: ./Full-Spectrum Premium Hemp Extract Tincture 1000 mg.md
+2023-06-04 17:17:40,140 - INFO - Processing file: ./Tre House - Rainbow Sherbet.md
+2023-06-04 17:17:40,140 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Rainbow Sherbet.md
+2023-06-04 17:17:40,140 - INFO - Successfully updated file: ./Tre House - Rainbow Sherbet.md
+2023-06-04 17:17:40,140 - INFO - Processing file: ./CBDfx - Muscle and Joint Cooling Formula.md
+2023-06-04 17:17:40,141 - INFO - Found "#text" or "##text" pattern in file: ./CBDfx - Muscle and Joint Cooling Formula.md
+2023-06-04 17:17:40,141 - INFO - Successfully updated file: ./CBDfx - Muscle and Joint Cooling Formula.md
+2023-06-04 17:17:40,141 - INFO - Processing file: ./Foria - Intimacy Sex Oil With CBD.md
+2023-06-04 17:17:40,141 - INFO - Found "#text" or "##text" pattern in file: ./Foria - Intimacy Sex Oil With CBD.md
+2023-06-04 17:17:40,141 - INFO - Successfully updated file: ./Foria - Intimacy Sex Oil With CBD.md
+2023-06-04 17:17:40,141 - INFO - Processing file: ./cbdMD - Sleep PM CBD Oil.md
+2023-06-04 17:17:40,141 - INFO - Found "#text" or "##text" pattern in file: ./cbdMD - Sleep PM CBD Oil.md
+2023-06-04 17:17:40,141 - INFO - Successfully updated file: ./cbdMD - Sleep PM CBD Oil.md
+2023-06-04 17:17:40,141 - INFO - Processing file: ./Tre House - Lemon Jack - D8  D9  D10  THC-P.md
+2023-06-04 17:17:40,141 - INFO - Found "#text" or "##text" pattern in file: ./Tre House - Lemon Jack - D8  D9  D10  THC-P.md
+2023-06-04 17:17:40,141 - INFO - Successfully updated file: ./Tre House - Lemon Jack - D8  D9  D10  THC-P.md
+2023-06-04 17:17:40,141 - INFO - Processing file: ./CBDfx - Turmeric and Spirulina CBD Gummies.md
+2023-06-04 17:17:40,141 - INFO - Found "#text" or "##text" pattern in file: ./CBDfx - Turmeric and Spirulina CBD Gummies.md
+2023-06-04 17:17:40,142 - INFO - Successfully updated file: ./CBDfx - Turmeric and Spirulina CBD Gummies.md
+2023-06-04 17:17:40,142 - INFO - Processing file: ./Galaxy Treats - Moonbabies Delta 9 THC Gummies.md
+2023-06-04 17:17:40,142 - INFO - Found "#text" or "##text" pattern in file: ./Galaxy Treats - Moonbabies Delta 9 THC Gummies.md
+2023-06-04 17:17:40,142 - INFO - Successfully updated file: ./Galaxy Treats - Moonbabies Delta 9 THC Gummies.md
+2023-06-04 17:17:40,142 - INFO - Processing file: ./cbdMD Botanicals - Facial Serum.md
+2023-06-04 17:17:40,142 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD Botanicals - Facial Serum.md
+2023-06-04 17:17:40,142 - INFO - Processing file: ./cbdMD - CBD Oil Softgel Capsules.md
+2023-06-04 17:17:40,142 - INFO - Found "#text" or "##text" pattern in file: ./cbdMD - CBD Oil Softgel Capsules.md
+2023-06-04 17:17:40,142 - INFO - Successfully updated file: ./cbdMD - CBD Oil Softgel Capsules.md
+2023-06-04 17:17:40,142 - INFO - Processing file: ./Secret Nature.md
+2023-06-04 17:17:40,142 - INFO - Found "#text" or "##text" pattern in file: ./Secret Nature.md
+2023-06-04 17:17:40,142 - INFO - Successfully updated file: ./Secret Nature.md
+2023-06-04 17:17:40,142 - INFO - Processing file: ./Paranoid x11.md
+2023-06-04 17:17:40,142 - INFO - Found "#text" or "##text" pattern in file: ./Paranoid x11.md
+2023-06-04 17:17:40,143 - INFO - Successfully updated file: ./Paranoid x11.md
+2023-06-04 17:17:40,143 - INFO - Processing file: ./CBDistillery - Sleep CBD Gummies w Melatonin.md
+2023-06-04 17:17:40,143 - INFO - No "#text" or "##text" pattern found in file: ./CBDistillery - Sleep CBD Gummies w Melatonin.md
+2023-06-04 17:17:40,143 - INFO - Processing file: ./Redwood Reserves-Peppermint Hemp Joint.md
+2023-06-04 17:17:40,143 - INFO - Found "#text" or "##text" pattern in file: ./Redwood Reserves-Peppermint Hemp Joint.md
+2023-06-04 17:17:40,143 - INFO - Successfully updated file: ./Redwood Reserves-Peppermint Hemp Joint.md
+2023-06-04 17:17:40,143 - INFO - Processing file: ./Paw CBD - Canine Hip  Joint Chews.md
+2023-06-04 17:17:40,143 - INFO - Found "#text" or "##text" pattern in file: ./Paw CBD - Canine Hip  Joint Chews.md
+2023-06-04 17:17:40,143 - INFO - Successfully updated file: ./Paw CBD - Canine Hip  Joint Chews.md
+2023-06-04 17:17:40,143 - INFO - Processing file: ./CBDfx - Muscle and Joint Heating Cream.md
+2023-06-04 17:17:40,143 - INFO - No "#text" or "##text" pattern found in file: ./CBDfx - Muscle and Joint Heating Cream.md
+2023-06-04 17:17:40,143 - INFO - Processing file: ./Slumber CBN - Deep Zzzs Full Spectrum Sleep Gummies.md
+2023-06-04 17:17:40,144 - INFO - No "#text" or "##text" pattern found in file: ./Slumber CBN - Deep Zzzs Full Spectrum Sleep Gummies.md
+2023-06-04 17:17:40,144 - INFO - Processing file: ./Foria - Intimacy Awaken Arousal Oil with CBD.md
+2023-06-04 17:17:40,144 - INFO - Found "#text" or "##text" pattern in file: ./Foria - Intimacy Awaken Arousal Oil with CBD.md
+2023-06-04 17:17:40,144 - INFO - Successfully updated file: ./Foria - Intimacy Awaken Arousal Oil with CBD.md
+2023-06-04 17:17:40,144 - INFO - Processing file: ./Delta8 Living - HHC Flower 35G.md
+2023-06-04 17:17:40,144 - INFO - No "#text" or "##text" pattern found in file: ./Delta8 Living - HHC Flower 35G.md
+2023-06-04 17:17:40,144 - INFO - Processing file: ./Slumber CBN - Afternoon Delight Chill and Buzz Gummies.md
+2023-06-04 17:17:40,144 - INFO - Found "#text" or "##text" pattern in file: ./Slumber CBN - Afternoon Delight Chill and Buzz Gummies.md
+2023-06-04 17:17:40,144 - INFO - Successfully updated file: ./Slumber CBN - Afternoon Delight Chill and Buzz Gummies.md
+2023-06-04 17:17:40,144 - INFO - Processing file: ./Smoking Dog - 100MG D9 THC Shot.md
+2023-06-04 17:17:40,144 - INFO - Found "#text" or "##text" pattern in file: ./Smoking Dog - 100MG D9 THC Shot.md
+2023-06-04 17:17:40,144 - INFO - Successfully updated file: ./Smoking Dog - 100MG D9 THC Shot.md
+2023-06-04 17:17:40,144 - INFO - Processing file: ./Delta 8 Living HHC Moonrocks.md
+2023-06-04 17:17:40,145 - INFO - Found "#text" or "##text" pattern in file: ./Delta 8 Living HHC Moonrocks.md
+2023-06-04 17:17:40,145 - INFO - Successfully updated file: ./Delta 8 Living HHC Moonrocks.md
+2023-06-04 17:17:40,145 - INFO - Processing file: ./Slumber - Extra Strength CBN Gummies.md
+2023-06-04 17:17:40,145 - INFO - Found "#text" or "##text" pattern in file: ./Slumber - Extra Strength CBN Gummies.md
+2023-06-04 17:17:40,145 - INFO - Successfully updated file: ./Slumber - Extra Strength CBN Gummies.md
+2023-06-04 17:17:40,145 - INFO - Processing file: ./Foria - Intimacy CBD Melts.md
+2023-06-04 17:17:40,145 - INFO - Found "#text" or "##text" pattern in file: ./Foria - Intimacy CBD Melts.md
+2023-06-04 17:17:40,145 - INFO - Successfully updated file: ./Foria - Intimacy CBD Melts.md
+2023-06-04 17:17:40,145 - INFO - Processing file: ./cbdMD Botanicals - Be Gone CBD Clearskin.md
+2023-06-04 17:17:40,145 - INFO - No "#text" or "##text" pattern found in file: ./cbdMD Botanicals - Be Gone CBD Clearskin.md
+2023-06-04 17:17:40,145 - INFO - Processing file: ./cbdMD Botanicals - Daily Moisturizer.md
+2023-06-04 17:17:40,146 - INFO - Found "#text" or "##text" pattern in file: ./cbdMD Botanicals - Daily Moisturizer.md
+2023-06-04 17:17:40,146 - INFO - Successfully updated file: ./cbdMD Botanicals - Daily Moisturizer.md
+2023-06-04 17:17:40,146 - INFO - Processing file: ./cbdMD - Full Spectrum CBD Gummies.md
+2023-06-04 17:17:40,146 - INFO - Found "#text" or "##text" pattern in file: ./cbdMD - Full Spectrum CBD Gummies.md
+2023-06-04 17:17:40,146 - INFO - Successfully updated file: ./cbdMD - Full Spectrum CBD Gummies.md

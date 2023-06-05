@@ -38,7 +38,7 @@ Answer: Yes, cbdMD's Full Spectrum CBD Gummies are made with premium-grade, THC-
 CBD and THC are both cannabinoids found in the cannabis plant. CBD is a non-psychoactive cannabinoid that has been shown to have many potential health benefits, including reducing inflammation, relieving pain, and improving sleep. THC is a psychoactive cannabinoid that can produce a feeling of euphoria and relaxation.
 If you are interested in learning more about CBD and THC, check out these informative resources:
 - [What is CBD?](https://www.healthline.com/health/what-is-cbd)
-- [What is THC?](https://www.medicalnewstoday.com/articles/319475#what-is-thc)
+- [What is THC?](https://www.medicalnewstoday.com/articles/319475# what-is-thc)
 - [CBD vs THC: What's the Difference?](https://www.medicalmarijuanainc.com/cbd-vs-thc/)
-- [What Are the Benefits of CBD?](https://www.webmd.com/pain-management/cbd-oil-benefits#1)
-- [What Are the Benefits of THC?](https://www.healthline.com/health/thc-benefits#benefits)
+- [What Are the Benefits of CBD?](https://www.webmd.com/pain-management/cbd-oil-benefits# 1)
+- [What Are the Benefits of THC?](https://www.healthline.com/health/thc-benefits# benefits)

@@ -32,7 +32,7 @@ A: Yes, cbdMD's Sleep PM CBD Oil is third-party tested for quality and potency. 
 Q: Is cbdMD's Sleep PM CBD Oil certified organic?
 A: Yes, cbdMD's Sleep PM CBD Oil is certified organic.
 ## Educational Resources
-- [What is CBD and How Does it Work?](https://www.healthline.com/health/cbd-oil-benefits#what-is-cbd)
+- [What is CBD and How Does it Work?](https://www.healthline.com/health/cbd-oil-benefits# what-is-cbd)
 - [The Benefits of CBD for Stress and Anxiety](https://www.verywellmind.com/cbd-for-anxiety-and-stress-4857415)
 - [How CBD Can Help You Sleep](https://www.healthline.com/health/cbd-for-sleep)
 - [CBD for Insomnia: What You Need to Know](https://www.verywellhealth.com/cbd-for-insomnia-4857464)

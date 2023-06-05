@@ -36,4 +36,4 @@ Are you new to CBD or THC? Check out these informative resources to learn more a
 - [CBD vs. THC: What’s the Difference?](https://www.projectcbd.org/cbd-101/cbd-thc-difference) 
 - [CBD Benefits: How Cannabidiol Can Improve Your Health](https://www.healthline.com/health/cbd-benefits)
 - [The Benefits of THC](https://www.leafly.com/news/cannabis-101/what-are-the-benefits-of-thc) 
-- [CBD and THC: What’s the Difference?](https://www.webmd.com/pain-management/what-is-the-difference-between-cbd-and-thc#1)
+- [CBD and THC: What’s the Difference?](https://www.webmd.com/pain-management/what-is-the-difference-between-cbd-and-thc# 1)
