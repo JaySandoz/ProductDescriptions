@@ -13,7 +13,6 @@ Git and GitHub are tools that help you keep track of changes in your code and co
 1. In the Terminal, type `git config --global user.name "Your Name"` and press Enter. Replace "Your Name" with your actual name (e.g., John Doe).
 2. Type `git config --global user.email "your.email@example.com"` and press Enter. Replace "your.email@example.com" with your email address.
 
-```
 ## 🔑 Generating SSH Key and Troubleshooting SSH Key Authentication and Cloning Repository on GitHub
 
 Welcome, adventurer! Follow these steps to generate an SSH key, save it to your PC, troubleshoot SSH key authentication issues, and clone a repository on GitHub:
