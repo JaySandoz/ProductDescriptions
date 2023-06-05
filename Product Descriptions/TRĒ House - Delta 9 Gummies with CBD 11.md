@@ -60,7 +60,7 @@ Below are the tables for storing SEO-related information of WooCommerce products
 | 🎯 Keyword Targeting | 🏷️ SEO Tags |
 | ------------------- | ---------- |
 |  cbd                |            |
-|                     |            |
+|          thc           |            |
 
 ## 🔗 Linking Strategy 
 
