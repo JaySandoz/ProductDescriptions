@@ -41,7 +41,7 @@ Answer: You can view the lab results here: [insert link].
 
 ---
 
-# 🛠️ For Developer Use Only 🔐
+# 🛠️ For Developer & SEO Specalist Use Only 🔐
 
 Below are the tables for storing SEO-related information of WooCommerce products. 👇
 
