@@ -1,16 +1,25 @@
 # CBDLiving - Nano CBD infused Water
 Refresh your body and mind with CBDLiving's Nano CBD infused Water. This all-natural, organic wellness drink is packed with nano-sized CBD molecules to provide fast-acting, long-lasting relief from inflammation, anxiety, and stress. With a light and refreshing taste, CBDLiving's Nano CBD infused Water is the perfect way to stay hydrated and support your overall health and wellbeing.
 ## Description
-CBDLiving's Nano CBD infused Water is a revolutionary wellness beverage that provides fast-acting relief from inflammation, anxiety, and stress. This all-natural, organic drink is packed with nano-sized CBD molecules that are quickly and easily absorbed into your body for maximum efficacy. With a light and refreshing taste, CBDLiving's Nano CBD infused Water is the perfect way to stay hydrated and support your overall health and wellbeing.
-Nano CBD is a revolutionary form of CBD that has been broken down into tiny particles for maximum absorption and effectiveness. The nano-sized particles quickly and easily penetrate the body's cells, providing fast-acting relief from inflammation, anxiety, and stress. This product is THC-free and contains only natural, organic ingredients, including nano-sized CBD molecules, purified water, and natural flavors.
+🍹Ready to hydrate with a splash of surprise? Take a sip of CBDLiving's Nano CBD Infused Water, your new go-to wellness beverage that's faster than a jackrabbit in providing relief from inflammation, anxiety, and stress.
+
+This isn't just your average H2O, oh no!👀 It's an organic, all-natural drink loaded with 10mg of nano-sized CBD molecules, smaller than a flea on a disco ball, that are rapidly and easily absorbed into your body for max effectiveness.💃
+
+What's that you taste? It's the light, refreshing flavor of serenity that's as clear and cool as a mountain spring. And don't fret about any pesky THC – this drink is as clean as a freshly polished bowling ball.🚫🔬
+
+For our eco-friendly buddies out there, you'll be jazzed to know that this bottle is both BPA & BPS-free! So while you're quenching your thirst, you're also giving Mother Nature a virtual high-five. 🌍🤚
+
+Wait, there's more! This miraculous elixir also packs a major alkaline punch (9+ pH) ready to knock acidity and inflammation out of the park. ⚾💥
+
+So come on, let CBDLiving's Nano CBD Infused Water redefine the way you hydrate. Here's to a refreshing and radiant you!🥂💦
 ## Ingredients
-CBDLiving's Nano CBD infused Water is made with all-natural, organic ingredients, including nano-sized CBD molecules, purified water, and natural flavors. Each bottle contains 25mg of THC-free, nano-sized CBD molecules, which are quickly and easily absorbed into your body for maximum efficacy. 
+CBDLiving's Nano CBD infused Water is made with all-natural, organic hemp extract and (9+ pH) alkaline purified water. Each bottle contains 10mg of THC-free, nano-sized CBD molecules, which are quickly and easily absorbed into your body for maximum efficacy. 
 ## How to Use
 CBDLiving's Nano CBD infused Water is easy to use and can be enjoyed anytime, anywhere. Simply open the bottle and enjoy the light and refreshing taste. It can be consumed as a standalone beverage or added to your favorite smoothie or juice for a boost of CBD. 
 ## Lab Results, Certifications, and Quality Assurance
-CBDLiving's Nano CBD infused Water is made with the highest quality ingredients and is rigorously tested to ensure safety and purity. All of our products are third-party lab tested for potency, purity, and safety. You can view the lab results here: [insert link]. 
+CBDLiving's Nano CBD infused Water is made with the highest quality ingredients and is rigorously tested to ensure safety and purity. All of our products are third-party lab tested for potency, purity, and safety. You can view the lab results here: [(https://cdn.accentuate.io/31485941776481/12434750537825/Water-lot-22048-v1672276486516.pdf?ref=rush.app&utm_source=rush.app&utm_medium=os2_tracking_page)]. 
 ## Benefits
-CBDLiving's Nano CBD infused Water provides fast-acting, long-lasting relief from inflammation, anxiety, and stress. It is THC-free and contains only natural, organic ingredients, including nano-sized CBD molecules, purified water, and natural flavors. This product is also vegan, gluten-free, and non-GMO, making it the perfect choice for anyone looking to support their overall health and wellbeing. 
+CBDLiving's Nano CBD infused Water provides fast-acting, long-lasting relief from inflammation, anxiety, and stress. It is THC-free and contains only natural, organic ingredients, including nano-sized CBD molecules, purified alkaline water, and natural flavors. This product is also vegan, gluten-free, BPA/BPS-free, and non-GMO, making it the perfect choice for anyone looking to support their overall health and wellbeing. 
 ## Safety Information
 CBDLiving's Nano CBD infused Water is a safe and natural product that is non-psychoactive and THC-free. It is made with all-natural, organic ingredients and is rigorously tested to ensure safety and purity. However, it is important to consult with your doctor before using any new product, especially if you are pregnant, nursing, or taking any medications. 
 ## Customer Testimonials
@@ -32,7 +41,7 @@ Answer: Yes, CBDLiving's Nano CBD infused Water is vegan, gluten-free, and non-G
 7. What is the shelf life of CBDLiving's Nano CBD infused Water?
 Answer: CBDLiving's Nano CBD infused Water has a shelf life of one year.
 8. Where can I find the lab results for CBDLiving's Nano CBD infused Water?
-Answer: You can view the lab results here: [insert link].
+Answer: You can view the lab results here: [(https://cdn.accentuate.io/31485941776481/12434750537825/Water-lot-22048-v1672276486516.pdf?ref=rush.app&utm_source=rush.app&utm_medium=os2_tracking_page)].
 ## Educational Resources
 - [CBD 101: What is CBD and How Does it Work?](https://www.cbdliving.com/blogs/cbd-news/cbd-101-what-is-cbd-and-how-does-it-work)
 - [The Benefits of CBD: What is CBD Used For?](https://www.cbdliving.com/blogs/cbd-news/the-benefits-of-cbd-what-is-cbd-used-for)
