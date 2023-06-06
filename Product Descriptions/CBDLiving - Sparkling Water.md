@@ -13,7 +13,7 @@ CBDLiving's Sparkling Water is made with natural ingredients and hemp extract. I
 ## How to Use
 Simply open the can and enjoy the refreshing and flavorful taste of CBDLiving's Sparkling Water. For best results, drink one can a day to get your daily dose of CBD.
 ## Lab Results, Certifications, and Quality Assurance
-CBDLiving's Sparkling Water is certified by the National Hemp Association and is tested by third-party labs to ensure the highest quality. You can view the lab results here: [https://cdn.accentuate.io/39402847600737/12434750537825/Black-Cherry-Potency-Lot-J2220CLBC-v1672276601033.pdf?ref=rush.app&utm_source=rush.app&utm_medium=os2_tracking_page)]. 
+CBDLiving's Sparkling Water is certified by the National Hemp Association and is tested by third-party labs to ensure the highest quality. You can [view the lab results here](https://cdn.accentuate.io/39402847600737/12434750537825/Black-Cherry-Potency-Lot-J2220CLBC-v1672276601033.pdf?ref=rush.app&utm_source=rush.app&utm_medium=os2_tracking_page). 
 ## Benefits
 CBDLiving's Sparkling Water is a great way to stay hydrated and get your daily dose of CBD. Its natural ingredients and hemp extract provide stress relief, relaxation, and mood enhancement, while its flavor and zero calories make it a great choice for those looking for a healthy and refreshing beverage.
 ## Safety Information
