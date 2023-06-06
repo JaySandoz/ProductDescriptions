@@ -67,9 +67,9 @@ Q: What are the benefits of using CBDfx's Bath Bombs?
 A: The benefits of using CBDfx's Bath Bombs include relaxation, stress relief, and nourishment and hydration of the skin.
 ## Educational Resources
 At CBDfx, we believe in educating our customers about the benefits of CBD and THC. Here are some informative resources about CBD and THC, their uses, and how they can improve your well-being:
-- [CBD and THC: What's the Difference?][https://cbdfx.com/what-is-cbd/#cbd-vs-thc]
-- [The Benefits of CBD Oil][https://cbdfx.com/press/cbd-oil-9-science-backed-benefits/]
-- [The Benefits of CBD][https://cbdfx.co.uk/what-is-cbd/the-benefits-of-cbd]
+- [CBD and THC: What's the Difference?](https://cbdfx.com/what-is-cbd/#cbd-vs-thc)
+- [The Benefits of CBD Oil](https://cbdfx.com/press/cbd-oil-9-science-backed-benefits/)
+- [The Benefits of CBD](https://cbdfx.co.uk/what-is-cbd/the-benefits-of-cbd)
 # 🛠️ For Developer Use Only 🔐
 
 Below are the tables for storing SEO-related information of WooCommerce products. 👇
