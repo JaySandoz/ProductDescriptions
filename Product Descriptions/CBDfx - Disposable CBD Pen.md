@@ -27,10 +27,15 @@ CBDfx’s Disposable CBD Pen is incredibly easy to use. Simply remove the pen fr
 CBDfx takes quality assurance seriously and has taken the necessary steps to ensure that all of their products are of the highest quality. All of their CBD products are third-party lab tested to ensure they meet the highest standards of quality and safety. The lab results for each product can be found on the CBDfx website. CBDfx is also certified by the US Hemp Authority, which is a mark of quality assurance that guarantees the product is compliant with all applicable laws and regulations.
 
 View Lab Results Here:
+
 Blue Rasperry [https://cbdfx.com/lab-reports/vape-pen-blue-raspberry/]
+
 Strawberry Lemonade [https://cbdfx.com/lab-reports/vape-pen-strawberry-lemonade/]
+
 Tropic Breeze [https://cbdfx.com/lab-reports/vape-pen-tropic-breeze/]
+
 Mint [https://cbdfx.com/lab-reports/vape-pen-fresh-mint/]
+
 ## Benefits
 CBDfx’s Disposable CBD Pen offers a variety of benefits to its users, including relief from stress and anxiety, improved sleep, and overall wellness. It’s also a great alternative to traditional medicine, as it’s all-natural and non-psychoactive. Plus, it’s incredibly easy to use and is discreet enough to take on-the-go.
 ## Safety Information
