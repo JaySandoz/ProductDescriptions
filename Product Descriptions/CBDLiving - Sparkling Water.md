@@ -1,9 +1,15 @@
 # CBDLiving - Sparkling Water
 CBDLiving's Sparkling Water is the perfect way to stay hydrated and get your daily dose of CBD. Enjoy a refreshing and flavorful beverage that's packed with natural ingredients and zero calories. Infused with the highest quality hemp extract, CBDLiving's Sparkling Water provides stress relief, relaxation, and mood enhancement in a single sip.
 ## Description
-CBDLiving's Sparkling Water is a unique beverage that's perfect for those looking for a healthy and natural way to get their daily dose of CBD. This sparkling water is infused with the highest quality hemp extract to provide you with anxiety relief, stress relief, relaxation, and mood enhancement. Plus, it's gluten-free, vegan, non-alcoholic, and THC-free, making it a great choice for those with dietary restrictions. With a flavorful and refreshing taste, CBDLiving's Sparkling Water is the perfect way to stay hydrated and get your daily dose of CBD.
+🎉🍹Imagine a beverage that not only hydrates you but makes you shine from the inside, brighter than a disco ball at an 80's dance party! Meet CBDLiving's Sparkling Water – your ticket to hydration station with an unexpected spin.
+
+Packed with the best quality hemp extract, this is not just your everyday sparkling water. It's an effervescent elixir that is all set to bubble-blast your stress, anxiety, and mood swings out of this world!🚀 Plus, it's gluten-free, vegan, non-alcoholic, and THC-free, ticking all the boxes for a guilt-free indulgence.🌱✅
+
+Now, hold on to your taste buds because we've got a surprise for you!👅 Every 12oz can of this magical potion contains 25mg of CBD and it comes in not one, not two, but FIVE vitamin-boosted flavors: Black Cherry🍒, Mango Guava🥭, Strawberry Lavender🍓🌾, Orange Grapefruit🍊, and Peach Honey🍑🍯. This sparkling sensation is not just about getting your daily CBD dosage, it's a fruity party for your palate, with a bonus vitamin parade featuring vitamins A, B5, B6, B12, and essential minerals like potassium and zinc. Talk about feeling fizz-tastically recharged!💥
+
+So why wait? Pop open a can of CBDLiving's Sparkling Water and let the refreshing taste give you a vibrant boost, one sip at a time! Cheers to your health, sparkle, and sass! 🥂💦🌟
 ## Ingredients
-CBDLiving's Sparkling Water is made with natural ingredients and hemp extract. It contains 10mg of CBD per can and is free of THC, gluten, and sugar. It is also vegan-friendly and has zero calories.
+CBDLiving's Sparkling Water is made with natural ingredients and hemp extract. It contains 25mg of CBD per can and is free of THC, gluten, and sugar. It is also vegan-friendly and has zero calories. Each can includes carbonated Water, Erythritol, Citric Acid, Natural Flavor, Fruit and Vegetable Juice (for color), Malic Acid, Trimagnesium Citrate, Sodium Citrate, Calcium Chloride, Potassium Sorbate (preservative), Sodium Benzoate (preservative), Rebaudioside A (Stevia), Proprietary Nano Hemp Extract 25 mg Cannabidiol (CBD), Calcium d-Pantothenate (Vitamin B5), Zinc Aspartate, Retinyl Palmitate (Vitamin A), Pyridoxine Hydrochloride (Vitamin B6), Cyanocobalamin (Vitamin B12).
 ## How to Use
 Simply open the can and enjoy the refreshing and flavorful taste of CBDLiving's Sparkling Water. For best results, drink one can a day to get your daily dose of CBD.
 ## Lab Results, Certifications, and Quality Assurance
@@ -17,7 +23,7 @@ CBDLiving's Sparkling Water is a safe and natural product that is free of THC, g
 "I've been using CBDLiving's Sparkling Water for a few weeks now and I'm really happy with the results. I feel more relaxed and my mood has improved significantly. Highly recommend!" - Sarah G.
 ## Frequently Asked Questions
 Q: How much CBD is in each can of CBDLiving's Sparkling Water?
-A: Each can contains 10mg of CBD.
+A: Each can contains 25mg of CBD.
 Q: Is CBDLiving's Sparkling Water gluten-free?
 A: Yes, CBDLiving's Sparkling Water is gluten-free.
 Q: Does CBDLiving's Sparkling Water contain any sugar?
