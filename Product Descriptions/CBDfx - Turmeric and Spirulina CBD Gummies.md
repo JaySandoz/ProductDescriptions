@@ -5,9 +5,9 @@ Delight in a symphony of wellness with CBDfx's Turmeric & Spirulina CBD Gummies.
 
 Our 1500mg CBD gummies pack 25mg of CBD per gummy, with a serving size of two gummies. 
 
-🌿 The Benefits of CBD Gummies with Turmeric and Spirulina 🌿 CBD Wellness Boost: CBD's interaction with your body's endocannabinoid system promotes homeostasis across several vital systems and organs, fostering overall wellness.
+🌿 The Benefits of CBD Gummies with Turmeric and Spirulina 🌿: CBD's interaction with your body's endocannabinoid system promotes homeostasis across several vital systems and organs, fostering overall wellness.
 
-    Turmeric & Spirulina Superpowers: Turmeric's active ingredient, curcumin, acts as a potent antioxidant, neutralizing harmful "free radical" cells. Spirulina, a nutrient-dense superfood, offers an array of beneficial elements including amino acids, B-complex vitamins, calcium, and other essential minerals.
+Turmeric & Spirulina Superpowers: Turmeric's active ingredient, curcumin, acts as a potent antioxidant, neutralizing harmful "free radical" cells. Spirulina, a nutrient-dense superfood, offers an array of beneficial elements including amino acids, B-complex vitamins, calcium, and other essential minerals.
 
 💪 Why Choose CBDfx CBD Gummies? 💪
 
