@@ -28,7 +28,7 @@ CBDfx's Sweet Dreams THC + CBD Drops are made with a full-spectrum hemp extract 
 ## How to Use
 CBDfx's Sweet Dreams THC + CBD Drops can be taken orally or added to your food or beverage. For best results, take one drop before bedtime. Start with one drop and gradually increase the dosage as needed.
 ## Lab Results, Certifications, and Quality Assurance
-CBDfx is committed to providing the highest quality products to our customers. Our Sweet Dreams THC + CBD Drops have been tested by a third-party lab to ensure the highest levels of quality and safety. You can [view the lab results (https://cbdfx.com/lab-reports/lab-report-for-cbn-delta-9-thc-drops-sweet-dreams-blend/)]
+CBDfx is committed to providing the highest quality products to our customers. Our Sweet Dreams THC + CBD Drops have been tested by a third-party lab to ensure the highest levels of quality and safety. You can [view the lab results here](https://cbdfx.com/lab-reports/lab-report-for-cbn-delta-9-thc-drops-sweet-dreams-blend/)
 ## Benefits
 CBDfx's Sweet Dreams THC + CBD Drops provide a unique blend of THC and CBD to help you relax and get a good night's sleep. This blend is also known to help reduce stress, anxiety, and insomnia while also improving your mood and providing a calming effect.
 ## Safety Information
@@ -46,13 +46,13 @@ A: CBDfx's Sweet Dreams THC + CBD Drops can be taken orally or added to your foo
 Q: Are CBDfx's Sweet Dreams THC + CBD Drops safe?
 A: CBDfx's Sweet Dreams THC + CBD Drops are made with natural, non-GMO, organic ingredients and are free of any artificial additives. However, as with any product containing THC, it is important to consult with your doctor before use.
 Q: Where can I view the lab results for CBDfx's Sweet Dreams THC + CBD Drops?
-A: You can view the lab results [here](www.cbdfx.com/lab-results).
+A: You can [view the lab results](www.cbdfx.com/lab-results).
 Q: What are the benefits of CBDfx's Sweet Dreams THC + CBD Drops?
 A: CBDfx's Sweet Dreams THC + CBD Drops provide a unique blend of THC and CBD to help you relax and get a good night's sleep. This blend is also known to help reduce stress, anxiety, and insomnia while also improving your mood and providing a calming effect.
 Q: Are there any customer testimonials for CBDfx's Sweet Dreams THC + CBD Drops?
 A: Yes, many customers have had great success with CBDfx's Sweet Dreams THC + CBD Drops. Here is an example of a customer testimonial: "I've been using CBDfx's Sweet Dreams THC + CBD Drops for a few weeks now and I'm really happy with the results. I'm sleeping better and feeling more relaxed. Highly recommend!" - John S.
 ## Educational Resources
-CBDfx provides informative resources about the benefits of CBD and THC. Check out our blog post on the differences between CBD and THC [https://www.cbdfx.com/blogs/cbd-101/cbd-vs-thc-whats-the-difference] or our video describing what CBD oil is [https://www.youtube.com/watch?v=6_OjNbN5gxo] to learn more about these powerful cannabinoids.
+CBDfx provides informative resources about the benefits of CBD and THC. Check out our blog post on [the differences between CBD and THC](https://www.cbdfx.com/blogs/cbd-101/cbd-vs-thc-whats-the-difference) or our [video describing what CBD oil is](https://www.youtube.com/watch?v=6_OjNbN5gxo) to learn more about these powerful cannabinoids.
 # 🛠️ For Developer Use Only 🔐
 
 Below are the tables for storing SEO-related information of WooCommerce products. 👇
