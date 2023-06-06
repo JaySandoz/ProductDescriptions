@@ -28,13 +28,13 @@ CBDfx takes quality assurance seriously and has taken the necessary steps to ens
 
 View Lab Results Here:
 
-Blue Rasperry [https://cbdfx.com/lab-reports/vape-pen-blue-raspberry/]
+[Blue Rasperry](https://cbdfx.com/lab-reports/vape-pen-blue-raspberry/)
 
-Strawberry Lemonade [https://cbdfx.com/lab-reports/vape-pen-strawberry-lemonade/]
+[Strawberry Lemonade](https://cbdfx.com/lab-reports/vape-pen-strawberry-lemonade/)
 
-Tropic Breeze [https://cbdfx.com/lab-reports/vape-pen-tropic-breeze/]
+[Tropic Breeze](https://cbdfx.com/lab-reports/vape-pen-tropic-breeze/)
 
-Mint [https://cbdfx.com/lab-reports/vape-pen-fresh-mint/]
+[Mint](https://cbdfx.com/lab-reports/vape-pen-fresh-mint/)
 
 ## Benefits
 CBDfx’s Disposable CBD Pen offers a variety of benefits to its users, including relief from stress and anxiety, improved sleep, and overall wellness. It’s also a great alternative to traditional medicine, as it’s all-natural and non-psychoactive. Plus, it’s incredibly easy to use and is discreet enough to take on-the-go.
