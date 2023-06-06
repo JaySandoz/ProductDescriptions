@@ -1,14 +1,21 @@
 # CBDfx - Muscle &amp; Joint Heating Cream
 CBDfx's Muscle &amp; Joint Heating Cream is the perfect solution for those looking for fast-acting relief from muscle and joint pain. This unique blend of natural ingredients and essential oils, combined with the power of CBD, provides a soothing and relaxing experience. Its unique heating effect penetrates deep into the skin, delivering fast and effective relief from inflammation and soreness. 
 ## Description
-CBDfx's Muscle &amp; Joint Heating Cream is a powerful blend of natural ingredients and essential oils, combined with the power of CBD. It is formulated with camphor, eucalyptus, lavender, and menthol, providing a soothing and relaxing experience. The unique heating effect penetrates deep into the skin, delivering fast and effective relief from inflammation and soreness. This cream is perfect for those who suffer from chronic pain, muscle soreness, and joint stiffness. It is also great for athletes looking to recover quickly after a workout. 
-The CBDfx Muscle &amp; Joint Heating Cream is available in a 150mg strength, with each application containing 5mg of CBD. This is a topical cream, so it does not enter the bloodstream, making it a safe and effective way to experience the benefits of CBD. It is also 100% organic and free of any artificial colors or fragrances. 
+🔥💪 Feel like your muscles and joints are demanding a holiday retreat? CBDfx's Muscle & Joint Heating Cream is their tropical getaway, minus the airfare! This power-packed potion combines the prowess of CBD with a cavalcade of natural ingredients and essential oils for a one-way ticket to Soothe City.
+
+Formulated with calming camphor, invigorating eucalyptus, restful lavender, and cool menthol, this cream is like a relaxing spa day for your muscles. The unique heating effect feels like a cozy blanket for your skin, delivering fast and no-nonsense relief from inflammation and soreness. 💆‍♀️💆‍♂️
+
+Now available in two sizes and in an elevated formula! 🎉Our CBG + CBD Lotion combines broad-spectrum CBD and potent CBG in a harmonious 1:1 ratio, along with the likes of white willow bark, caffeine, tea tree oil, and vanillin for an additional boost. This fusion creates a powerful muscle appeasing potion that is an absolute must-have for every athlete's locker and every home's medicine cabinet. 🏋️‍♀️🏋️‍♂️
+
+Applying this cream is as easy as ABC. Simply rub a dollop from a dime to a quarter-size into the grumbling area. The effects should kick in within 10 to 20 minutes. And don't worry, the hemp-derived CBD in our cream is as non-toxic as a fluffy bunny, so reapply as often as you need to keep the comfort coming. 🐰🔄
+
+What's more, our cream is 100% organic and as free from artificial colors and fragrances as a forest. 🌲 So why wait? Give your muscles and joints the vacation they deserve with CBDfx's Muscle & Joint Heating Cream. Feel the heat, embrace the relief! 🔥💆‍♂️💆‍♀️
 ## Ingredients
-CBDfx's Muscle &amp; Joint Heating Cream is made with a unique blend of natural ingredients and essential oils, combined with the power of CBD. It contains camphor, eucalyptus, lavender, and menthol, providing a soothing and relaxing experience. The cream also contains organic beeswax, organic coconut oil, organic shea butter, and organic olive oil, which are all natural ingredients that help to nourish and protect the skin. 
+CBDfx's Muscle &amp; Joint Heating Cream is made with a unique blend of natural ingredients and essential oils, combined with the power of CBD. Each bottle contains: USP water, broad spectrum hemp extract, hydroxylated lecithin, organic hemp oil, menthol, caffeine anhydrous, sodium bicarbonate, carbomer, white willow bark extract, camphor, vanillin, eucalyptus oil, tea tree oil, tocopheryl acetate, sodium benzoate, and potassium sorbate.
 ## How to Use
 CBDfx's Muscle &amp; Joint Heating Cream is easy to use. Simply apply a small amount of the cream to the affected area and massage it in. For best results, use the cream 2-3 times daily. 
 ## Lab Results, Certifications, and Quality Assurance
-CBDfx is committed to providing the highest quality products. All of their products are third-party lab tested to ensure they are free from any contaminants. The lab results for this product can be found [here](https://www.cbdfx.com/lab-results). 
+CBDfx is committed to providing the highest quality products. All of their products are third-party lab tested to ensure they are free from any contaminants. The lab results for this product can be found [https://cbdfx.com/lab-reports/lab-reports-for-cbg-cbd-cream-for-muscle-joint-heating-formula/] 
 ## Benefits
 CBDfx's Muscle &amp; Joint Heating Cream provides fast relief from muscle and joint pain. It is formulated with natural ingredients and essential oils, combined with the power of CBD, providing a soothing and relaxing experience. The unique heating effect penetrates deep into the skin, delivering fast and effective relief from inflammation and soreness. 
 ## Safety Information
