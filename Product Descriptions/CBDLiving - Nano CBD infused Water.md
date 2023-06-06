@@ -17,7 +17,7 @@ CBDLiving's Nano CBD infused Water is made with all-natural, organic hemp extrac
 ## How to Use
 CBDLiving's Nano CBD infused Water is easy to use and can be enjoyed anytime, anywhere. Simply open the bottle and enjoy the light and refreshing taste. It can be consumed as a standalone beverage or added to your favorite smoothie or juice for a boost of CBD. 
 ## Lab Results, Certifications, and Quality Assurance
-CBDLiving's Nano CBD infused Water is made with the highest quality ingredients and is rigorously tested to ensure safety and purity. All of our products are third-party lab tested for potency, purity, and safety. You can view the lab results here: [(https://cdn.accentuate.io/31485941776481/12434750537825/Water-lot-22048-v1672276486516.pdf?ref=rush.app&utm_source=rush.app&utm_medium=os2_tracking_page)]. 
+CBDLiving's Nano CBD infused Water is made with the highest quality ingredients and is rigorously tested to ensure safety and purity. All of our products are third-party lab tested for potency, purity, and safety. You can [view the lab results](https://cdn.accentuate.io/31485941776481/12434750537825/Water-lot-22048-v1672276486516.pdf?ref=rush.app&utm_source=rush.app&utm_medium=os2_tracking_page). 
 ## Benefits
 CBDLiving's Nano CBD infused Water provides fast-acting, long-lasting relief from inflammation, anxiety, and stress. It is THC-free and contains only natural, organic ingredients, including nano-sized CBD molecules, purified alkaline water, and natural flavors. This product is also vegan, gluten-free, BPA/BPS-free, and non-GMO, making it the perfect choice for anyone looking to support their overall health and wellbeing. 
 ## Safety Information
