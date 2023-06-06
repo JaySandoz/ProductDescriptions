@@ -38,7 +38,7 @@ Sodium bicarbonate, Citric acid, Kaolin clay, Powdered sucrose, Deionized water,
 ## How to Use
 Using CBDfx's Bath Bombs is easy and simple. Fill your bathtub with warm water and drop one bath bomb into the water. The bath bomb will dissolve and release the essential oils and CBD, creating a luxurious, spa-like experience. Soak in the bath for at least 20 minutes for best results.
 ## Lab Results, Certifications, and Quality Assurance
-At CBDfx, we are committed to providing the highest quality products. Our bath bombs are third-party lab tested to ensure they are free from pesticides, heavy metals, and other contaminants. We also have a strict quality assurance process in place to ensure that our products are of the highest quality. You can view our lab results here: [(https://cbdfx.com/lab-reports/lab-reports-for-bath-bombs/)].
+At CBDfx, we are committed to providing the highest quality products. Our bath bombs are third-party lab tested to ensure they are free from pesticides, heavy metals, and other contaminants. We also have a strict quality assurance process in place to ensure that our products are of the highest quality. You can view our lab results here: [https://cbdfx.com/lab-reports/lab-reports-for-bath-bombs/].
 ## Benefits
 CBDfx's Bath Bombs provide a unique and luxurious experience that is perfect for relaxation and self-care. Our bath bombs are enriched with natural ingredients and essential oils that help nourish and hydrate the skin, leaving it feeling soft and smooth. In addition, our bath bombs are infused with 50mg of hemp-derived CBD, providing a calming and stress-relieving experience.
 ## Safety Information
@@ -64,9 +64,9 @@ Q: What are the benefits of using CBDfx's Bath Bombs?
 A: The benefits of using CBDfx's Bath Bombs include relaxation, stress relief, and nourishment and hydration of the skin.
 ## Educational Resources
 At CBDfx, we believe in educating our customers about the benefits of CBD and THC. Here are some informative resources about CBD and THC, their uses, and how they can improve your well-being:
-- [CBD and THC: What's the Difference?]([(https://cbdfx.com/what-is-cbd/#cbd-vs-thc)
-- [The Benefits of CBD Oil][(https://cbdfx.com/press/cbd-oil-9-science-backed-benefits/)]
-- [The Benefits of CBD][(https://cbdfx.co.uk/what-is-cbd/the-benefits-of-cbd)]
+- [CBD and THC: What's the Difference?][https://cbdfx.com/what-is-cbd/#cbd-vs-thc]
+- [The Benefits of CBD Oil][https://cbdfx.com/press/cbd-oil-9-science-backed-benefits/]
+- [The Benefits of CBD][https://cbdfx.co.uk/what-is-cbd/the-benefits-of-cbd]
 # 🛠️ For Developer Use Only 🔐
 
 Below are the tables for storing SEO-related information of WooCommerce products. 👇
