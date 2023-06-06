@@ -15,7 +15,7 @@ CBDfx's Muscle &amp; Joint Heating Cream is made with a unique blend of natural 
 ## How to Use
 CBDfx's Muscle &amp; Joint Heating Cream is easy to use. Simply apply a small amount of the cream to the affected area and massage it in. For best results, use the cream 2-3 times daily. 
 ## Lab Results, Certifications, and Quality Assurance
-CBDfx is committed to providing the highest quality products. All of their products are third-party lab tested to ensure they are free from any contaminants. The lab results for this product can be found [https://cbdfx.com/lab-reports/lab-reports-for-cbg-cbd-cream-for-muscle-joint-heating-formula/] 
+CBDfx is committed to providing the highest quality products. All of their products are third-party lab tested to ensure they are free from any contaminants. The lab results for this product can be [viewed here](https://cbdfx.com/lab-reports/lab-reports-for-cbg-cbd-cream-for-muscle-joint-heating-formula/).
 ## Benefits
 CBDfx's Muscle &amp; Joint Heating Cream provides fast relief from muscle and joint pain. It is formulated with natural ingredients and essential oils, combined with the power of CBD, providing a soothing and relaxing experience. The unique heating effect penetrates deep into the skin, delivering fast and effective relief from inflammation and soreness. 
 ## Safety Information
@@ -37,7 +37,7 @@ A: Yes, all of CBDfx's products are third-party lab tested to ensure they are fr
 Q: How long does it take for the Muscle &amp; Joint Heating Cream to work?
 A: The cream provides fast relief from muscle and joint pain. Most users experience relief within minutes. 
 ## Educational Resources
-CBDfx provides informative resources about CBD and its benefits. Learn more about how CBD can help relieve pain and inflammation, improve sleep, and reduce stress. Check out our blog posts [here](https://www.cbdfx.com/blog/) and our videos [here](https://www.cbdfx.com/videos/).
+CBDfx provides informative resources about CBD and its benefits. Learn more about how CBD can help relieve pain and inflammation, improve sleep, and reduce stress. Check out our [blog posts](https://www.cbdfx.com/blog/) and our [videos](https://www.cbdfx.com/videos/).
 # 🛠️ For Developer Use Only 🔐
 
 Below are the tables for storing SEO-related information of WooCommerce products. 👇
