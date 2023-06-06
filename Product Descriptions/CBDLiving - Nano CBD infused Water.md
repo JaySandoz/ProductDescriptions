@@ -41,7 +41,7 @@ Answer: Yes, CBDLiving's Nano CBD infused Water is vegan, gluten-free, and non-G
 7. What is the shelf life of CBDLiving's Nano CBD infused Water?
 Answer: CBDLiving's Nano CBD infused Water has a shelf life of one year.
 8. Where can I find the lab results for CBDLiving's Nano CBD infused Water?
-Answer: You can view the lab results here: [(https://cdn.accentuate.io/31485941776481/12434750537825/Water-lot-22048-v1672276486516.pdf?ref=rush.app&utm_source=rush.app&utm_medium=os2_tracking_page)].
+Answer: You can [view the lab results here](https://cdn.accentuate.io/31485941776481/12434750537825/Water-lot-22048-v1672276486516.pdf?ref=rush.app&utm_source=rush.app&utm_medium=os2_tracking_page).
 ## Educational Resources
 - [CBD 101: What is CBD and How Does it Work?](https://www.cbdliving.com/blogs/cbd-news/cbd-101-what-is-cbd-and-how-does-it-work)
 - [The Benefits of CBD: What is CBD Used For?](https://www.cbdliving.com/blogs/cbd-news/the-benefits-of-cbd-what-is-cbd-used-for)
