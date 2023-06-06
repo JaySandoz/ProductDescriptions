@@ -8,8 +8,10 @@ What's that smell, you ask?👃 Oh, that's just the sweet scent of natural essen
 We've got not one, not two, but FOUR formulations designed to pamper you from head to toe:
 
 1️⃣ Calming formula, packed with lemongrass and chamomile to help you go from wound up to wound down. 🍋🌼
+
 2️⃣ Hydrating formula, filled with mango and shea butter, to give your dry, stressed skin the love it deserves. 🥭🧈
-3️⃣ Soothing formula, made with lavender oil and Hawaiian black salt for the ultimate softening and detoxifying experience. 🌺🌋
+
+3️⃣ Soothing formula, made with lavender oil and Hawaiian black salt for the ultimate softening and detoxifying experience. 🌺🌋 
 
 4️⃣ Recharge formula, boasting eucalyptus and spearmint oils to ease those sore muscles and joints, so you can say goodbye to aches and pains. 🌿🍬
 
