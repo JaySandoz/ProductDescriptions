@@ -44,9 +44,8 @@ Q: Where can I view the lab results for Relax CBD Gummies?
 A: You can view the lab results here: [Insert Link].
 ## Educational Resources
 CBD and THC are both compounds found in cannabis plants. CBD is non-psychoactive, meaning it won't get you high, and is used to promote relaxation and reduce stress. THC is psychoactive, meaning it will get you high, and is used to treat pain, nausea, and other medical conditions. 
-For more information about the differences between CBD and THC, check out this article: [Insert Link]. 
-For more information about the potential benefits of CBD, check out this blog post: [Insert Link]. 
-For more information about the potential benefits of THC, check out this video: [Insert Link].
+For more information about the differences between CBD and THC, [check out this article](https://www.healthline.com/health/cbd-vs-thc)
+For more information about the potential benefits of CBD, [check out this blog post](https://www.medicalnewstoday.com/articles/317221)
 # 🛠️ For Developer Use Only 🔐
 
 Below are the tables for storing SEO-related information of WooCommerce products. 👇
