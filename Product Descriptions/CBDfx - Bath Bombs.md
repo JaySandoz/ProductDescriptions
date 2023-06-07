@@ -52,19 +52,33 @@ CBDfx's Bath Bombs are safe and gentle on the skin. However, it is important to 
 "I recently tried CBDfx's Bath Bombs and I'm so glad I did! They are so luxurious and relaxing and my skin feels amazing after using them. Highly recommend!" - Sarah K.
 ## Frequently Asked Questions
 Q: What are CBDfx's Bath Bombs?
+
 A: CBDfx's Bath Bombs are luxurious CBD-infused bath bombs made with natural ingredients and essential oils.
+
 Q: How much CBD is in each bath bomb?
+
 A: Each bath bomb contains 2000mg of hemp-derived CBD.
+
 Q: Are CBDfx's Bath Bombs safe to use?
+
 A: Yes, CBDfx's Bath Bombs are safe and gentle on the skin. However, they are not intended for use by children or pregnant or nursing women.
+
 Q: Can I use CBDfx's Bath Bombs if I have sensitive skin?
+
 A: Yes, CBDfx's Bath Bombs are made with natural ingredients and essential oils that are gentle on the skin.
+
 Q: How do I use CBDfx's Bath Bombs?
+
 A: To use CBDfx's Bath Bombs, fill your bathtub with warm water and drop one bath bomb into the water. The bath bomb will dissolve and release the essential oils and CBD, creating a luxurious, spa-like experience. Soak in the bath for at least 20 minutes for best results.
+
 Q: Are CBDfx's Bath Bombs tested for quality?
+
 A: Yes, all of our products are third-party lab tested to ensure they are free from pesticides, heavy metals, and other contaminants.
+
 Q: What are the benefits of using CBDfx's Bath Bombs?
+
 A: The benefits of using CBDfx's Bath Bombs include relaxation, stress relief, and nourishment and hydration of the skin.
+
 ## Educational Resources
 At CBDfx, we believe in educating our customers about the benefits of CBD and THC. Here are some informative resources about CBD and THC, their uses, and how they can improve your well-being:
 - [CBD and THC: What's the Difference?](https://cbdfx.com/what-is-cbd/#cbd-vs-thc)
