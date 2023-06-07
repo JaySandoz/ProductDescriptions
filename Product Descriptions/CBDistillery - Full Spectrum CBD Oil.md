@@ -1,14 +1,25 @@
 # CBDistillery - Full Spectrum CBD Oil
 Are you looking for a natural, organic, and non-psychoactive way to relieve stress, anxiety, and pain? CBDistillery's Full Spectrum CBD Oil is the perfect solution. This USA-made, full-spectrum oil is derived from pure, all-natural hemp extract and contains a variety of cannabinoids that work together to provide maximum relief.
 ## Description
-CBDistillery's Full Spectrum CBD Oil is the perfect choice for those seeking the full effects of cannabinoids. This oil is made from organic hemp extract that is rich in cannabinoids and terpenes. It is flavorless and odorless, making it easy to add to food or drinks. It comes in two strength options, 500mg and 1000mg, so you can choose the one that best fits your needs. The 500mg bottle contains 16mg of CBD per serving, while the 1000mg bottle contains 33mg of CBD per serving.
-This oil is ideal for those looking to address a variety of conditions, such as anxiety, stress, pain, and sleep-related issues. It is also a great option for those seeking a natural, organic, and non-psychoactive way to improve their overall health and well-being.
+🎉 Ready to invite a new guest to your wellness party? Try CBDistillery's Full Spectrum CBD Oil, the life and soul of the cannabinoid fiesta! 🌿🌱
+
+Crafted from organic hemp extract, this oil is a charismatic mix of cannabinoids and terpenes, but don't worry, it won't gatecrash your favorite smoothie with any unwanted flavors or smells. Like the perfect guest, it blends in effortlessly.🍹😎
+
+Now, let's talk options. Everyone loves options, right? We've got two: the feisty 500mg bottle and the powerhouse 1000mg bottle. If you're just dipping your toes into the CBD pool, our 500mg tincture is a gentle nudge towards finding your perfect dosage, offering a cool 17mg per serving.🏊‍♀️💧
+
+But wait, there's more! Our CBD Oil Tinctures aren't just great, they're your new BFF. Portable, easy to use, and always ready for an adventure, these 30mL tinctures will happily tag along wherever you go!🎒🏞️
+
+It's full spectrum, meaning you get the whole entourage of active, hemp-derived cannabinoids (cannabidiol, omega oils, plant terpenes, and a pinch - less than 0.3% by weight - of THC). They’re all about team spirit, combining their talents to interact with your Endocannabinoid System (ECS) to produce the "Entourage Effect", the greatest show of teamwork since the Avengers saved the universe! 🦸‍♂️🦸‍♀️
+
+In a 2019 CBDistillery customer survey, most folks reported that our CBD oil is like a tiny wellness superhero, offering relief from mild or temporary anxiety, creating a zen garden in the mind, ushering in quality sleep, and providing sweet relief from pain after physical activity. It's a wellness wonder in a bottle!🌟🍾
+
+So, go ahead, take the plunge. Your body's going to thank you for it. 🎈🎉
 ## Ingredients
-CBDistillery's Full Spectrum CBD Oil is made from pure, all-natural hemp extract that is rich in cannabinoids and terpenes. It contains no added flavors or fragrances, and is free from synthetic ingredients. It is also lab-tested for quality assurance and certified to be free from pesticides, heavy metals, and other contaminants.
+CBDistillery's Full Spectrum CBD Oil is made from pure, all-natural hemp extract that is rich in cannabinoids and terpenes. It contains no added flavors or fragrances, and is free from synthetic ingredients. It is also lab-tested for quality assurance and certified to be free from pesticides, heavy metals, and other contaminants. Each bottle includes: Fractionated Coconut Oil (MCT) and Full Spectrum CBD Hemp Extract (Aerial Parts)
 ## How to Use
 CBDistillery's Full Spectrum CBD Oil is easy to use. Simply place the desired amount of oil under your tongue and hold it there for up to 90 seconds before swallowing. This will ensure maximum absorption of the cannabinoids. It is recommended to start with a low dose and increase gradually until you find the right amount for you.
 ## Lab Results, Certifications, and Quality Assurance
-CBDistillery's Full Spectrum CBD Oil is lab-tested to ensure the highest quality and purity. The lab results are available on the CBDistillery website, and the product is certified to be free from pesticides, heavy metals, and other contaminants.
+CBDistillery's Full Spectrum CBD Oil is lab-tested to ensure the highest quality and purity. The lab results are available on the CBDistillery website, and the product is certified to be free from pesticides, heavy metals, and other contaminants. [View lab results here}(https://www.thecbdistillery.com/product/500mg-cbd-tincture-fullspectrum/#view-lab-results).
 ## Benefits
 CBDistillery's Full Spectrum CBD Oil offers a variety of benefits. It is a natural, organic, and non-psychoactive way to address a variety of conditions, such as anxiety, stress, pain, and sleep-related issues. It can also help improve overall health and well-being.
 ## Safety Information
