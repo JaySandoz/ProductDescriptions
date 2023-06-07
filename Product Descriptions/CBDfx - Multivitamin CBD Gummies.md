@@ -22,6 +22,7 @@ To use CBDfx - Multivitamin CBD Gummies, simply take one gummy per day. For best
 At CBDfx, we take pride in providing the highest quality products and strive to ensure customer satisfaction. Our products are also certified vegan-friendly and free of GMOs, gluten, and artificial colors and flavors. All of our products are third-party tested for potency and purity, and the lab results are available here: 
 
 [Women's](https://cbdfx.com/lab-reports/lab-reports-for-cbd-gummies-with-multivitamin-for-women/)
+
 [Men's](https://cbdfx.com/lab-reports/hemp-gummies-mens-multivitamins/)
 ## Benefits
 CBDfx - Multivitamin CBD Gummies provide a range of benefits, including:
