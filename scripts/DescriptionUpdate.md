@@ -39,6 +39,7 @@ For example, a product named "M&Ms: Candy - Pack of 50" will correspond to a mar
 ```bash
     export CONSUMER_KEY=your_consumer_key
     export CONSUMER_SECRET=your_consumer_secret
+    ```
 
 2. Run the script in your ProductDescriptions directory:
 
