@@ -23,18 +23,31 @@ CBDLiving's Sparkling Water is a safe and natural product that is free of THC, g
 "I've been using CBDLiving's Sparkling Water for a few weeks now and I'm really happy with the results. I feel more relaxed and my mood has improved significantly. Highly recommend!" - Sarah G.
 ## Frequently Asked Questions
 Q: How much CBD is in each can of CBDLiving's Sparkling Water?
+
 A: Each can contains 25mg of CBD.
+
 Q: Is CBDLiving's Sparkling Water gluten-free?
+
 A: Yes, CBDLiving's Sparkling Water is gluten-free.
+
 Q: Does CBDLiving's Sparkling Water contain any sugar?
+
 A: No, CBDLiving's Sparkling Water is sugar-free.
+
 Q: Is CBDLiving's Sparkling Water vegan-friendly?
+
 A: Yes, CBDLiving's Sparkling Water is vegan-friendly.
+
 Q: Does CBDLiving's Sparkling Water contain THC?
+
 A: No, CBDLiving's Sparkling Water is THC-free.
+
 Q: Is CBDLiving's Sparkling Water safe for pregnant or breastfeeding women?
+
 A: No, CBDLiving's Sparkling Water is not recommended for pregnant or breastfeeding women.
+
 Q: Is CBDLiving's Sparkling Water safe for children?
+
 A: No, CBDLiving's Sparkling Water is not recommended for children under the age of 18.
 ## Educational Resources
 CBDLiving provides a variety of informative resources about CBD and its benefits. Visit our website to read articles about the effects of CBD, how to use it, and more. We also have a selection of blog posts and videos that can help you learn more about CBD and its uses.
