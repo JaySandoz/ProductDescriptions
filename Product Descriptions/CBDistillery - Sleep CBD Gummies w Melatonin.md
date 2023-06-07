@@ -1,13 +1,25 @@
 # CBDistillery - Sleep CBD Gummies w/ Melatonin
 Looking for a natural way to get a restful night's sleep? Look no further than CBDistillery's Sleep CBD Gummies w/ Melatonin! Our delicious gummies are made with broad-spectrum CBD and melatonin, a natural sleep aid, to help you relax and drift off into a deep, restful sleep.
 ## Description
-CBDistillery's Sleep CBD Gummies w/ Melatonin are the perfect combination of natural ingredients and CBD to help you get a restful night's sleep. Our gummies are made with broad-spectrum CBD, which contains all of the beneficial compounds found in the hemp plant, including cannabinoids, terpenes, and flavonoids, without the presence of THC. We also add melatonin, a natural sleep aid, to help you relax and drift off into a deep, restful sleep. Our Sleep CBD Gummies are non-habit forming and offer a convenient way to get your daily dose of CBD.
+🌛Are you dreaming of a good night's sleep? Make those dreams a reality with CBDistillery's Sleep CBD Gummies with Melatonin! 💤🌠
+
+Crafted with care by our botanical virtuosos, each gummy is like a lullaby for your taste buds, offering a premeasured 30mg serving of naturally occurring, hemp-derived CBD. We're putting the "beauty" back in "beauty sleep". No mixing, no measuring, just munch and marvel at your newfound relaxation.🍬😌
+
+Our gummies aren't just a delicious treat; they're your secret weapon for tranquility on-the-go. With their handy size and travel-friendly packaging, these tropical fruit-flavored gems are always ready to help you unwind, whether you're road tripping or just escaping the everyday hustle and bustle.🏖️🚗
+
+What's that you ask? Are these just another broad-spectrum CBD product? No, siree! Our gummies bring you all the goodness of active, hemp-derived cannabinoids including cannabidiol, omega oils, plant terpenes, without any THC gate-crashers*. Together, these compounds team up with your Endocannabinoid System (ECS) to create the "Entourage Effect", a synergy so harmonious, it puts boy bands to shame.🎶🕺
+
+Don't just take our word for it. In a 2019 CBDistillery customer survey, a majority said our CBD made them feel like they're floating on a calm sea; their minds as peaceful as a serene garden; their sleep as deep as a tranquil lake; and their post-workout recovery as smooth as a gentle breeze.🧘‍♀️🌾🌙🍃
+
+Ready to kiss those restless nights goodbye? Take a CBDistillery Sleep Gummy, and let the sandman do the rest! Goodnight, sleep tight, and don't let the bed bugs bite! 🌜🛌
+
+*Note: THC gate-crashers are strictly not invited to this slumber party. We're here to provide serene dreams, not unexpected frights.
 ## Ingredients
-Our Sleep CBD Gummies are made with all-natural ingredients, including broad-spectrum CBD, melatonin, and natural flavors. Each gummy contains 10mg of CBD and 0.5mg of melatonin. Our broad-spectrum CBD is sourced from hemp grown in the USA and is third-party tested for purity and potency.
+Our Sleep CBD Gummies are made with all-natural ingredients, including broad-spectrum CBD, melatonin, and natural flavors. Each gummy contains 30mg of CBD and 2mg of melatonin. Our broad-spectrum CBD is sourced from hemp grown in the USA and is third-party tested for purity and potency. Each bottle contains: Tapioca syrup, cane sugar, pectin, citric acid, sodium citrate, malic acid, natural flavorings, and fruit juice.
 ## How to Use
 Our Sleep CBD Gummies are easy to use. Just take one gummy before bedtime to help you relax and drift off into a deep, restful sleep. You can also take them during the day to help manage stress and anxiety.
 ## Lab Results, Certifications, and Quality Assurance
-At CBDistillery, we take pride in providing our customers with high-quality products. All of our products are third-party tested for purity and potency and are made with hemp grown in the USA. For more information on our lab results, certifications, and quality assurance measures, please visit our website [here](www.cbdistillery.com/lab-results).
+At CBDistillery, we take pride in providing our customers with high-quality products. All of our products are third-party tested for purity and potency and are made with hemp grown in the USA. [View lab results here](https://www.thecbdistillery.com/product/30mg-broad-spectrum-cbd-sleep-gummies-30-count/#view-lab-results).
 ## Benefits
 Our Sleep CBD Gummies offer a variety of benefits, including:
 - Anxiety relief
