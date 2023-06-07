@@ -23,7 +23,7 @@ Welcome to our unconventional, tech-savvy approach to content creation! 🎉
 
 ### Why This Format?
 
-👉 **1 click product description updates**: Simply run delete the developer section of the product md file and run descriptions.py, and like magic, all the formatting will effortlessly transfer over. No more battling with formatting gremlins! ✨
+👉 **1 click product description updates**: Simply delete the developer section of the product md file and run descriptions.py, and like magic, all the formatting will effortlessly transfer over. No more battling with formatting gremlins! ✨
 
 👉 **Editing made easy**: In the bottom half of the product description MD file, you can sprinkle your keyword research insights like fairy dust. Add notes, fine-tune keywords—do it all from your mobile or any web browser. It's like having a pocket-sized editing genie! 🧞‍♂️📱💻
 
