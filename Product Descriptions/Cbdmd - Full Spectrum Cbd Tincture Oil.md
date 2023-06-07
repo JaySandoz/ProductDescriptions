@@ -1,14 +1,25 @@
 # Cbdmd - Full Spectrum Cbd Tincture Oil
 Are you looking for an easy, convenient way to get your daily dose of CBD? Look no further than Cbdmd's Full Spectrum Cbd Tincture Oil. This tincture oil is made from the highest-quality, full-spectrum CBD, and is designed to provide fast relief from pain, anxiety, and other symptoms. With its easy-to-use dropper, you can quickly and accurately measure out your desired dose for fast, effective relief. 
 ## Description
-Cbdmd's Full Spectrum Cbd Tincture Oil is a premium CBD oil that is designed to provide fast relief from a variety of symptoms. This oil is made from the highest-quality full-spectrum CBD, which means it contains all of the beneficial cannabinoids, terpenes, and flavonoids that are naturally found in the hemp plant. This oil is available in a variety of strengths, ranging from 300mg to 7500mg, so you can find the perfect dose for your needs. 
-This oil is easy to use and comes with an easy-to-use dropper. Simply measure out the desired dose and drop the oil under your tongue. The oil is quickly and easily absorbed into your bloodstream, providing fast relief from pain, anxiety, and other symptoms. 
+🏅 Presenting cbdMD's Full Spectrum Cbd Tincture Oil - it's not just a premium CBD oil, it's your new wellness secret weapon! Designed to offer relief at the speed of light, this oil's chock-full of beneficial cannabinoids, terpenes, and flavonoids - all the gifts the hemp plant has to offer, and it's dressed to impress.🌿🎁
+
+🥊Whether you're a featherweight or a heavyweight in CBD use, we've got you covered. Available in a plethora of strengths, ranging from a charming 300mg to a whopping 7500mg, you'll find the perfect dose to suit your needs.💪🔧
+
+This oil isn't just simple to use; it's so flexible it could join a gymnastics team! It comes with an easy-to-use dropper that makes measuring a breeze. Drop it under your tongue for a quick journey into your bloodstream, mix it with your morning coffee or tea, or get creative and stir it into your favorite CBD recipe. It's a fast ticket to relief city, with no layovers!🤸‍♀️🎟️
+
+🎉Our tinctures are a celebration of simplicity: just good old MCT oil infused with full spectrum hemp extract, and a choice of natural flavorings to tickle your taste buds. We're talking up to 6000 mg of CBD+THC Full Spectrum Formula per bottle! And, of course, all our CBD is sourced from U.S. hemp that's as non-GMO as a home-grown tomato.🍅
+
+Don't just trust us, we've got the lab reports to back it up. All our products are third-party lab tested for quality and consistency. And for our vegan and gluten-free friends out there, we've got your back - these tinctures are 100% friendly for you!🔬🌱🍞
+
+Imagine the wellness benefits of CBD, now add a sprinkle of CBG, CBN, CBC, and a dash of THC. Top it off with terpenes and flavonoids, and you've got a full spectrum formula that brings out the best in hemp. It's like a party in your body, and every cannabinoid's invited!🎊
+
+For those just dipping their toes in the CBD world, we recommend a serving (half a dropperful) every morning and evening for 30 days. Track how you feel, and if you're craving more, feel free to adjust the serving size. After all, it's all about what makes you feel your best! 🌈🏆
 ## Ingredients
-Cbdmd's Full Spectrum Cbd Tincture Oil is made with the highest-quality full-spectrum CBD. This oil contains all of the beneficial cannabinoids, terpenes, and flavonoids that are naturally found in the hemp plant. This oil is available in a variety of strengths, ranging from 300mg to 7500mg. 
+Cbdmd's Full Spectrum Cbd Tincture Oil is made with the highest-quality full-spectrum CBD. This oil contains all of the beneficial cannabinoids, terpenes, and flavonoids that are naturally found in the hemp plant. This oil is available in a variety of strengths, ranging from 300mg to 7500mg. Each bottle contains: Full spectrum hemp extract and MCT oil.
 ## How to Use
 Cbdmd's Full Spectrum Cbd Tincture Oil is easy to use. Simply measure out the desired dose with the easy-to-use dropper and drop the oil under your tongue. The oil is quickly and easily absorbed into your bloodstream, providing fast relief from pain, anxiety, and other symptoms. 
 ## Lab Results, Certifications, and Quality Assurance
-Cbdmd's Full Spectrum Cbd Tincture Oil is made from the highest-quality, full-spectrum CBD. This oil is third-party lab tested for purity and potency, so you can rest assured that you are getting a high-quality product. To view the lab results, visit cbdmd.com/lab-results. 
+Cbdmd's Full Spectrum Cbd Tincture Oil is made from the highest-quality, full-spectrum CBD. This oil is third-party lab tested for purity and potency, so you can rest assured that you are getting a high-quality product. [View the lab results](https://www.cbdmd.com/media/coa/13051D5.pdf?#view=FitH&statusbar=0&toolbar=0&navpanes=0&scrollbar=0).
 ## Benefits
 Cbdmd's Full Spectrum Cbd Tincture Oil is designed to provide fast relief from pain, anxiety, and other symptoms. This oil is made from the highest-quality full-spectrum CBD, so you can rest assured that you are getting a pure, potent product. This oil is also easy to use and comes with an easy-to-use dropper, so you can quickly and accurately measure out your desired dose. 
 ## Safety Information
