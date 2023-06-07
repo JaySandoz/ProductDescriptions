@@ -45,18 +45,31 @@ As with any CBD product, it’s important to follow the safety instructions and 
 “I’ve tried a few CBD pens before, but this one is by far the best. The flavor is amazing and it helps me relax and feel better. I definitely recommend it!” - Sarah K.
 ## Frequently Asked Questions
 Q: What is a Disposable CBD Pen?
+
 A: A Disposable CBD Pen is a convenient and discreet way to enjoy the natural benefits of hemp-derived CBD. It contains a pre-filled, disposable CBD cartridge with 500mg of CBD, as well as natural terpenes for flavor.
+
 Q: Is a Disposable CBD Pen safe to use?
+
 A: Yes, a Disposable CBD Pen is safe to use as long as you follow the safety instructions and use as directed. Do not exceed the recommended dosage, and consult your doctor before use if you are pregnant, nursing, or taking any medications.
+
 Q: How do I use a Disposable CBD Pen?
+
 A: Using a Disposable CBD Pen is incredibly easy. Simply remove the pen from the packaging and inhale from the cartridge to activate it. You can enjoy the benefits of CBD with each inhalation, and the pen will automatically shut off when it’s finished. Once the pen is empty, simply dispose of it and replace with a new one.
+
 Q: Does a Disposable CBD Pen contain any psychoactive ingredients?
+
 A: No, a Disposable CBD Pen does not contain any psychoactive ingredients, so you can enjoy the health benefits of CBD without any of the psychoactive effects associated with THC.
+
 Q: Is a Disposable CBD Pen legal?
+
 A: Yes, a Disposable CBD Pen is legal in most parts of the world. However, it is important to check your local laws and regulations to make sure that you are in compliance.
+
 Q: Where can I find the lab results for the Disposable CBD Pen?
+
 A: The lab results for the Disposable CBD Pen can be found on the CBDfx website.
+
 Q: Is the Disposable CBD Pen certified?
+
 A: Yes, CBDfx is certified by the US Hemp Authority, which is a mark of quality assurance that guarantees the product is compliant with all applicable laws and regulations.
 ## Educational Resources
 CBDfx provides a variety of informative resources about CBD and its benefits. Check out our blog posts, articles, and videos to learn more about CBD and how it can improve your well-being. You can also check out our lab results page to see the quality of our products.
