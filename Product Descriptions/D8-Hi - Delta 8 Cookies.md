@@ -14,11 +14,16 @@ A word of caution, Delta 8 THC can deliver a powerful head and body experience. 
 And remember, these aren't just cookies, they're D8-Hi's Delta 8 Cookies! 🍪🚀🌈 Bon Appétit!
 ## Ingredients
 D8-Hi - Delta 8 Cookies are made with natural ingredients such as organic coconut oil, organic sunflower oil, natural flavors, and Delta 8. With 50mg of Delta per cookie, they are a perfect way to get your daily dose of CBD. Each cookie contains:
+
 Chocolate:
+
 Unbleached Flour, Sugar, Canola Oil, Egg Replacement, Chocolate Flavor, Cocoa Powder, Oat Fiber, Delta-8 Tetrahydrocannabinol (From Hemp, Cannabis sativa), Espresso, Baking Soda, and Salt
 Cinnamon:
+
 Unbleached Flour, Sugar, Canola Oil, Egg Replacement, Cinnamon, Cinnamon Flavor, Oat Fiber, Delta-8 Tetrahydrocannabinol (From Hemp, Cannabis sativa), Baking Soda, and Salt
+
 Peanut Butter:
+
 Unbleached Flour, Sugar, Canola Oil, Egg Replacement, Peanut Butter, Peanut Butter Flavor, Oat Fiber, Delta-8 Tetrahydrocannabinol (From Hemp, Cannabis sativa), Baking Soda, and Salt
 
 ## How to Use
