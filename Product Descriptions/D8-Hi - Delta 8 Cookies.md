@@ -18,6 +18,7 @@ D8-Hi - Delta 8 Cookies are made with natural ingredients such as organic coconu
 Chocolate:
 
 Unbleached Flour, Sugar, Canola Oil, Egg Replacement, Chocolate Flavor, Cocoa Powder, Oat Fiber, Delta-8 Tetrahydrocannabinol (From Hemp, Cannabis sativa), Espresso, Baking Soda, and Salt
+
 Cinnamon:
 
 Unbleached Flour, Sugar, Canola Oil, Egg Replacement, Cinnamon, Cinnamon Flavor, Oat Fiber, Delta-8 Tetrahydrocannabinol (From Hemp, Cannabis sativa), Baking Soda, and Salt
@@ -43,18 +44,32 @@ D8-Hi - Delta 8 Cookies are safe to use and are tested in a third-party lab to e
 "I love D8-Hi - Delta 8 Cookies! They help me relax and improve my mood. The cookies are also vegan, gluten-free, and made with all-natural ingredients. Highly recommended!" - Sarah B.
 ## Frequently Asked Questions
 Q: What is Delta 8?
+
 A: Delta 8 is a powerful cannabinoid that can help reduce stress and anxiety, improve mood, and provide a calming effect. It is derived from hemp and is federally legal.
+
 Q: How much Delta 8 is in each cookie?
+
 A: Each cookie contains 50mg of Delta 8.
+
 Q: Are the cookies vegan?
+
 A: Yes, the cookies are vegan and made with all-natural ingredients.
+
 Q: Are the cookies safe to use?
-A: Yes, the cookies are tested in a third-party lab to ensure quality and safety. However, as with any product, it is important to read the label and follow the recommended dosage.
+
+A: Yes, the cookies are tested in a third-party lab to ensure quality and safety. However, as with any product, it is important to read 
+the label and follow the recommended dosage.
+
 Q: What flavors are available?
+
 A: The cookies come in a variety of flavors, including chocolate chip, oatmeal raisin, and peanut butter.
+
 Q: How do I use the cookies?
+
 A: Simply take one cookie and enjoy the delicious flavor and the calming effects of Delta 8.
+
 Q: Where can I find the lab results?
+
 A: The lab results are available on the product page, providing customers with peace of mind that they are getting a high-quality product.
 ## Educational Resources
 At D8-Hi, we believe it is important to educate customers about CBD and its benefits. We have compiled a list of informative resources about CBD, including articles, blog posts, and videos. We also have resources about Delta 8 and how it can improve your well-being. Check out our website for more information.
