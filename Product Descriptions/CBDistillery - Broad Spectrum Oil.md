@@ -28,16 +28,27 @@ CBDistillery's Broad Spectrum Oil is made with high-quality, organic ingredients
 "I recently started using CBDistillery's Broad Spectrum Oil and I'm already seeing great results. I'm sleeping better, my anxiety has decreased, and I'm feeling more positive overall. Highly recommend!" - Sara M.
 ## Frequently Asked Questions
 Q: What is CBDistillery's Broad Spectrum Oil? 
+
 A: CBDistillery's Broad Spectrum Oil is a high-quality CBD oil that is made with organic ingredients and hemp extract to provide full body support. It helps to reduce stress, anxiety, and inflammation, while providing relief from pain and promoting relaxation.
+
 Q: What ingredients are in CBDistillery's Broad Spectrum Oil? 
+
 A: CBDistillery's Broad Spectrum Oil is made with a unique blend of cannabinoids, terpenes, and other natural ingredients. It contains a broad spectrum of cannabinoids, including CBD, CBG, CBN, and CBC, as well as a variety of terpenes for maximum effectiveness.
+
 Q: How do I use CBDistillery's Broad Spectrum Oil? 
+
 A: CBDistillery's Broad Spectrum Oil can be taken orally or added to food and beverages. For best results, take 1-2 droppers of oil under your tongue and hold it there for 30-60 seconds before swallowing. This method allows the oil to be absorbed directly into your bloodstream for maximum effectiveness.
+
 Q: Is CBDistillery's Broad Spectrum Oil safe? 
+
 A: Yes, CBDistillery's Broad Spectrum Oil is made with high-quality, organic ingredients and hemp extract. It is non-GMO, gluten-free, and third-party certified to guarantee its quality and safety. As with any supplement, it is important to consult with your healthcare provider before taking any CBD product.
+
 Q: What are the benefits of taking CBDistillery's Broad Spectrum Oil? 
+
 A: CBDistillery's Broad Spectrum Oil is a powerful and effective oil that provides a full body support. It helps to reduce stress, anxiety, and inflammation, while providing relief from pain and promoting relaxation. It can also help to improve your overall wellbeing and vitality, giving you the boost you need to live your best life.
+
 Q: Is there a satisfaction guarantee? 
+
 A: Yes, CBDistillery stands behind the quality of its products with a 100% satisfaction guarantee.
 ## Educational Resources
 CBDistillery provides informative resources about CBD and its benefits. From articles and blog posts to videos and podcasts, customers can learn more about CBD and how it can improve their well-being. CBDistillery also offers a variety of educational materials to help customers make informed decisions about their health and wellness.
