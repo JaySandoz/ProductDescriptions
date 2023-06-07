@@ -37,7 +37,7 @@ Each CBDfx Turmeric & Spirulina CBD Gummy contains 25mg of broad-spectrum CBD, t
 ## How to Use
 Our CBDfx Turmeric & Spirulina CBD Gummies are easy to take on the go and make a great addition to any daily wellness routine. We recommend taking one gummy per day, or as needed. Each gummy contains 5mg of broad-spectrum CBD, so you can adjust your dosage as needed.
 ## Lab Results, Certifications, and Quality Assurance
-At CBDfx, we take quality and safety seriously. All of our products are tested in third-party labs to ensure that they meet the highest standards of safety and quality. You can find the [lab results for our Turmeric & Spirulina CBD Gummies here](https://cbdfx.com/lab-reports/hemp-gummies-turmeric-spirulina/). We are also certified by the US Hemp Authority, meaning that our products meet the highest standards of quality and safety.
+At CBDfx, we take quality and safety seriously. All of our products are tested in third-party labs to ensure that they meet the highest standards of safety and quality. We are also certified by the US Hemp Authority, meaning that our products meet the highest standards of quality and safety. You can [view the lab results here](https://cbdfx.com/lab-reports/hemp-gummies-turmeric-spirulina/). 
 ## Benefits
 CBDfx’s Turmeric & Spirulina CBD Gummies are the perfect way to get your daily intake of CBD and essential vitamins and minerals. Our gummies are designed to help you relax, reduce stress, and manage pain and anxiety. The combination of CBD, turmeric, and spirulina has been proven to help reduce inflammation, improve mental clarity, and support overall wellness. Plus, our gummies are vegan, non-GMO, and free of artificial sweeteners, colors, and flavors.
 ## Safety Information
@@ -47,16 +47,27 @@ CBDfx's Turmeric & Spirulina CBD Gummies are safe to take as directed. As with a
 "My husband and I love CBDfx's Turmeric & Spirulina CBD Gummies! They're easy to take on the go and have really helped us relax and manage our pain. We highly recommend them!" - Brad and Sarah F.
 ## Frequently Asked Questions
 Q: How many Turmeric & Spirulina CBD Gummies should I take?
+
 A: We recommend taking one gummy per day, or as needed. Each gummy contains 25mg of broad-spectrum CBD, so you can adjust your dosage as needed.
+
 Q: Are CBDfx's Turmeric & Spirulina CBD Gummies vegan?
+
 A: Yes, our gummies are vegan, non-GMO, and free of artificial sweeteners, colors, and flavors.
+
 Q: Are CBDfx's Turmeric & Spirulina CBD Gummies safe to take?
+
 A: Yes, our gummies are safe to take as directed. As with any supplement, it is recommended that you consult your healthcare provider before taking any new products.
+
 Q: Is there any THC in CBDfx's Turmeric & Spirulina CBD Gummies?
+
 A: No, our gummies are made with broad-spectrum CBD, which means that they are free from THC.
+
 Q: Where can I find the lab results for CBDfx's Turmeric & Spirulina CBD Gummies?
+
 A: You can find the lab results for our Turmeric & Spirulina CBD Gummies here: [insert link].
+
 Q: Are CBDfx's Turmeric & Spirulina CBD Gummies certified by the US Hemp Authority?
+
 A: Yes, we are certified by the US Hemp Authority, meaning that our products meet the highest standards of quality and safety.
 ## Educational Resources
 CBD and THC have become increasingly popular for their potential to provide relief from a variety of ailments. To learn more about the potential benefits of CBD and THC, check out the following resources: 
